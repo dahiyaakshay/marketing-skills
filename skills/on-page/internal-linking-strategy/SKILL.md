@@ -17,7 +17,7 @@ Site-wide internal linking strategy and orphan-page detection. For the specific 
 
 ## Orphan Pages
 
-A page with zero internal links pointing to it — reachable only via direct URL or the sitemap — receives disproportionately less crawl attention and passes no link equity from anywhere else on the site, regardless of its own content quality. Orphan pages often occur when a page is published without deliberately linking to it from any category, navigation, or related-content section.
+A page with zero internal links pointing to it reachable only via direct URL or the sitemap receives disproportionately less crawl attention and passes no link equity from anywhere else on the site, regardless of its own content quality. Orphan pages often occur when a page is published without deliberately linking to it from any category, navigation, or related-content section.
 
 ## Link Equity Distribution Principles
 
@@ -32,7 +32,7 @@ A page with zero internal links pointing to it — reachable only via direct URL
 
 1. Crawl the site to identify pages with zero or very few internal links pointing to them (orphan or near-orphan pages).
 2. Prioritize adding contextual internal links to important orphan pages from relevant, already-well-linked content.
-3. Audit link depth for high-priority pages — if an important page is many clicks from the homepage, consider promoting it in navigation or adding more direct links.
+3. Audit link depth for high-priority pages if an important page is many clicks from the homepage, consider promoting it in navigation or adding more direct links.
 4. Check anchor text variety across links to the same destination page, adjusting if overly repetitive.
 5. Re-audit periodically, since new content published without deliberate linking recreates orphan pages over time.
 
