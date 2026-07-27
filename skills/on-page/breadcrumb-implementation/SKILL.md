@@ -20,13 +20,13 @@ Breadcrumb UI and schema implementation. For the broader internal linking strate
 | Element | Guidance |
 |---|---|
 | **Reflects actual site hierarchy** | Breadcrumbs should mirror the real information architecture (Home > Category > Subcategory > Product), not an arbitrary or aspirational structure that doesn't match the site's actual navigation |
-| **BreadcrumbList schema** | Implement alongside the visible breadcrumb trail, matching it exactly — mismatched visible breadcrumbs and schema breadcrumbs is a trust/consistency issue |
+| **BreadcrumbList schema** | Implement alongside the visible breadcrumb trail, matching it exactly mismatched visible breadcrumbs and schema breadcrumbs is a trust/consistency issue |
 | **Every level is a working link** | Each breadcrumb level except the current page should link to that actual category/parent page, not just be decorative text |
 | **Consistent across the site** | The same hierarchy pattern applied consistently across all pages of a given type, not varying template to template |
 
 ## Why This Matters Beyond Navigation
 
-Breadcrumbs give users an easy way to navigate up the hierarchy, which reduces bounce rate on deep pages, and the BreadcrumbList schema makes the page eligible for a breadcrumb trail shown directly in search results instead of the full URL path — a small but real click-through improvement in the SERP snippet.
+Breadcrumbs give users an easy way to navigate up the hierarchy, which reduces bounce rate on deep pages, and the BreadcrumbList schema makes the page eligible for a breadcrumb trail shown directly in search results instead of the full URL path a small but real click-through improvement in the SERP snippet.
 
 ## Workflow
 
