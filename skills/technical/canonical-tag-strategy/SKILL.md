@@ -7,13 +7,13 @@ metadata:
 
 # Technical: Canonical Tag Strategy
 
-Implements `rel="canonical"` to tell search engines which version of a page is the authoritative one when multiple URLs serve substantially the same content — distinct from **cannibalization-checker**, which addresses two genuinely different pages competing for the same keyword.
+Implements `rel="canonical"` to tell search engines which version of a page is the authoritative one when multiple URLs serve substantially the same content distinct from **cannibalization-checker**, which addresses two genuinely different pages competing for the same keyword.
 
 **When invoking**: On first use, briefly clarify the canonical-vs-cannibalization distinction below. On subsequent use, go straight to implementation.
 
 ## Scope
 
-Duplicate/near-duplicate URL consolidation via canonical tags. For two distinct pages targeting the same keyword (not duplicates of each other), see **cannibalization-checker** (content category) — that's a content/keyword-mapping problem, not a canonical-tag problem.
+Duplicate/near-duplicate URL consolidation via canonical tags. For two distinct pages targeting the same keyword (not duplicates of each other), see **cannibalization-checker** (content category) that's a content/keyword-mapping problem, not a canonical-tag problem.
 
 ## When Canonical Tags Are the Right Tool
 
@@ -27,7 +27,7 @@ Duplicate/near-duplicate URL consolidation via canonical tags. For two distinct 
 
 ## Common Mistakes
 
-- **Canonicalizing to a page that itself redirects or 404s**: creates a broken signal chain — always confirm the canonical target returns a clean 200 status.
+- **Canonicalizing to a page that itself redirects or 404s**: creates a broken signal chain always confirm the canonical target returns a clean 200 status.
 - **Conflicting signals between canonical tag and sitemap/internal links**: if internal links and the sitemap point to a different URL than the canonical tag declares, the mixed signal weakens confidence in either.
 - **Self-referencing canonical missing on the "correct" page**: every indexable page should include a canonical tag pointing to itself by default, not only the pages considered duplicates.
 - **Using canonical tags to fix genuine cannibalization**: if two pages have real content differences and just happen to compete for the same term, the fix is content strategy (see **cannibalization-checker**), not forcing one to canonicalize to the other and losing that content's value.
