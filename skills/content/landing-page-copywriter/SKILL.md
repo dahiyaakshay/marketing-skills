@@ -7,7 +7,7 @@ metadata:
 
 # Content: Landing Page Copywriter
 
-Writes conversion-focused copy for a single-goal landing page — distinct from a blog post, this content exists to drive one specific action, and every element should serve that action.
+Writes conversion-focused copy for a single-goal landing page distinct from a blog post, this content exists to drive one specific action, and every element should serve that action.
 
 **When invoking**: On first use, confirm the single conversion goal before drafting. On subsequent use, go straight to drafting.
 
@@ -29,7 +29,7 @@ Copywriting for the page. Not structural/CRO audit of an existing page (see **la
 
 ## One Goal Per Page
 
-A landing page should drive exactly one conversion action — every competing link, secondary CTA, or unrelated navigation option dilutes the primary goal. If multiple audiences or offers are in play, that's a signal for multiple landing pages, not one page trying to serve all of them.
+A landing page should drive exactly one conversion action every competing link, secondary CTA, or unrelated navigation option dilutes the primary goal. If multiple audiences or offers are in play, that's a signal for multiple landing pages, not one page trying to serve all of them.
 
 ## Workflow
 
