@@ -7,7 +7,7 @@ metadata:
 
 # Local: Local Citation Audit
 
-Audits business name, address, and phone number (NAP) consistency across third-party directories and citation sources — inconsistency here directly weakens the prominence signal that feeds Google Business Profile ranking.
+Audits business name, address, and phone number (NAP) consistency across third-party directories and citation sources inconsistency here directly weakens the prominence signal that feeds Google Business Profile ranking.
 
 **When invoking**: On first use, briefly explain why consistency (not just presence) is the actual goal. On subsequent use, go straight to the audit.
 
@@ -17,7 +17,7 @@ Third-party directory/citation consistency. Not the primary GBP listing itself (
 
 ## Why Consistency Matters More Than Volume
 
-A large number of directory listings with inconsistent name, address, or phone data can weaken local ranking signals more than fewer, perfectly consistent listings — inconsistency creates ambiguity for Google about whether these are genuinely the same business, which undermines the prominence and trust signal citations are meant to build. The goal is exact-match consistency, not simply maximizing the count of directories listed.
+A large number of directory listings with inconsistent name, address, or phone data can weaken local ranking signals more than fewer, perfectly consistent listings inconsistency creates ambiguity for Google about whether these are genuinely the same business, which undermines the prominence and trust signal citations are meant to build. The goal is exact-match consistency, not simply maximizing the count of directories listed.
 
 ## Audit Checklist
 
@@ -25,7 +25,7 @@ A large number of directory listings with inconsistent name, address, or phone d
 |---|---|
 | **Exact-match business name** | Identical spelling, punctuation, and suffix (Inc., LLC) usage across every listing |
 | **Address formatting** | Identical suite/unit formatting, abbreviation conventions (St. vs Street), consistent across all listings |
-| **Phone number format and consistency** | Same number used everywhere — a secondary tracking number reused inconsistently across directories fragments the signal |
+| **Phone number format and consistency** | Same number used everywhere a secondary tracking number reused inconsistently across directories fragments the signal |
 | **Core directories present** | Presence on the major, high-trust directories relevant to the business's industry and region |
 | **Duplicate/stale listings** | Old addresses or outdated business names from a previous location or rebrand, still live on some directories |
 
