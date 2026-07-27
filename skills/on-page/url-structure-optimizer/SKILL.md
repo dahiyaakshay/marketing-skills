@@ -7,13 +7,13 @@ metadata:
 
 # On-Page: URL Structure Optimizer
 
-Designs clean, descriptive, stable URL structures — stability matters as much as descriptiveness, since changing an existing URL always requires a redirect and carries some risk even when done correctly.
+Designs clean, descriptive, stable URL structures stability matters as much as descriptiveness, since changing an existing URL always requires a redirect and carries some risk even when done correctly.
 
 **When invoking**: On first use, briefly note the stability-vs-descriptiveness tradeoff below. On subsequent use, go straight to the recommendation.
 
 ## Scope
 
-URL slug and path structure design. For the redirect implementation required when changing an existing URL, see **redirect-chain-audit** (technical category) — never change a live, indexed URL without a corresponding redirect plan.
+URL slug and path structure design. For the redirect implementation required when changing an existing URL, see **redirect-chain-audit** (technical category) never change a live, indexed URL without a corresponding redirect plan.
 
 ## Structural Guidance
 
@@ -27,7 +27,7 @@ URL slug and path structure design. For the redirect implementation required whe
 
 ## The Stability Principle
 
-An existing, already-indexed URL should only be changed for a strong reason (a rebrand, a significant restructure) — every URL change requires a 301 redirect and carries some risk of temporary ranking fluctuation while search engines re-process the change, even when executed correctly. "This URL could be slightly more optimal" is rarely sufficient justification on its own to change a URL that's already performing well; the marginal SEO gain from a slightly better slug is often smaller than the risk of the change itself.
+An existing, already-indexed URL should only be changed for a strong reason (a rebrand, a significant restructure) every URL change requires a 301 redirect and carries some risk of temporary ranking fluctuation while search engines re-process the change, even when executed correctly. "This URL could be slightly more optimal" is rarely sufficient justification on its own to change a URL that's already performing well; the marginal SEO gain from a slightly better slug is often smaller than the risk of the change itself.
 
 ## Workflow
 
