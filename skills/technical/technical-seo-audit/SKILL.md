@@ -1,13 +1,13 @@
 ---
 name: technical-seo-audit
-description: When the user wants a comprehensive technical SEO audit covering crawlability, indexability, and site health broadly. Also use when the user mentions "technical SEO audit," "site health check," or "why isn't Google indexing my pages." This is the umbrella audit — for specific sub-areas, use the specialized skill (core-web-vitals-audit, robots-txt-generator, structured-data-validator, etc.).
+description: When the user wants a comprehensive technical SEO audit covering crawlability, indexability, and site health broadly. Also use when the user mentions "technical SEO audit," "site health check," or "why isn't Google indexing my pages." This is the umbrella audit for specific sub-areas, use the specialized skill (core-web-vitals-audit, robots-txt-generator, structured-data-validator, etc.).
 metadata:
   version: 1.0.0
 ---
 
 # Technical: Technical SEO Audit
 
-The umbrella technical audit covering crawlability, indexability, and site health end-to-end — this skill sequences and cross-references the more specialized technical skills rather than duplicating their depth.
+The umbrella technical audit covering crawlability, indexability, and site health end-to-end this skill sequences and cross-references the more specialized technical skills rather than duplicating their depth.
 
 **When invoking**: On first use, briefly note the layered order below. On subsequent use, go straight to running the audit.
 
@@ -29,7 +29,7 @@ Comprehensive technical health check, sequencing the specialized technical skill
 
 ## Why Sequencing Matters
 
-Working top-down avoids wasted effort — there's no value auditing Core Web Vitals on pages that aren't even being crawled, and no value optimizing structured data on pages blocked by a canonical or redirect misconfiguration. Each layer assumes the ones above it are already resolved.
+Working top-down avoids wasted effort there's no value auditing Core Web Vitals on pages that aren't even being crawled, and no value optimizing structured data on pages blocked by a canonical or redirect misconfiguration. Each layer assumes the ones above it are already resolved.
 
 ## Workflow
 
