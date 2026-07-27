@@ -17,7 +17,7 @@ Structuring already-clustered keywords into a site architecture. Not the keyword
 
 ## Why the Linking Pattern Is the Point
 
-Increased interlinking within a cluster has been shown to correlate with improved rankings across the cluster as a whole — the architecture works because it creates a coherent, interlinked body of work rather than a scattering of one-off posts. In 2026 this structure does double duty: the same hub-and-spoke pattern that helps traditional rankings also creates the semantic map AI answer engines use to judge topical authority and brand association.
+Increased interlinking within a cluster has been shown to correlate with improved rankings across the cluster as a whole the architecture works because it creates a coherent, interlinked body of work rather than a scattering of one-off posts. In 2026 this structure does double duty: the same hub-and-spoke pattern that helps traditional rankings also creates the semantic map AI answer engines use to judge topical authority and brand association.
 
 ## The Linking Pattern
 
@@ -27,7 +27,7 @@ Increased interlinking within a cluster has been shown to correlate with improve
 | Spoke → Hub | Every spoke links back to the pillar, typically in the opening or conclusion |
 | Spoke ↔ Spoke | Sibling spoke pages cross-link where topics genuinely overlap (e.g. comparison pages linking to related how-tos) |
 
-Add all internal links at launch rather than deferring them to a future sprint — the interlinking is what makes the architecture work, not an optional polish step.
+Add all internal links at launch rather than deferring them to a future sprint the interlinking is what makes the architecture work, not an optional polish step.
 
 ## Sizing Guidance
 
@@ -36,7 +36,7 @@ A topic-based pillar cluster can reasonably contain 10–20 cluster pages under 
 ## Workflow
 
 1. Take the keyword clusters from **keyword-clustering** and group related clusters under a shared parent topic.
-2. Select the pillar topic — the broadest, highest-aggregate-volume cluster the site can realistically compete for (see **pillar-page-strategy** for the full selection framework).
+2. Select the pillar topic the broadest, highest-aggregate-volume cluster the site can realistically compete for (see **pillar-page-strategy** for the full selection framework).
 3. Map every cluster page's relationship to the pillar and to sibling cluster pages explicitly, rather than leaving it implicit.
 4. Assign anchor text variety (exact, partial, semantic) across the internal links to avoid monotony.
 5. Ship the pillar and its first several spokes together where possible, with all links live at launch.
