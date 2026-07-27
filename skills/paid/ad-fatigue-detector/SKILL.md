@@ -7,7 +7,7 @@ metadata:
 
 # Paid: Ad Fatigue Detector
 
-Distinguishes genuine ad fatigue (audience overexposure to the same creative, causing declining engagement) from other causes of declining ad performance — the fix differs substantially depending on which is actually happening.
+Distinguishes genuine ad fatigue (audience overexposure to the same creative, causing declining engagement) from other causes of declining ad performance the fix differs substantially depending on which is actually happening.
 
 **When invoking**: On first use, briefly note the diagnostic distinction below. On subsequent use, go straight to the diagnosis.
 
@@ -19,14 +19,14 @@ Diagnosing ad fatigue specifically. For refreshing the audience pool once fatigu
 
 | Signal | What it indicates |
 |---|---|
-| **CTR declining over time on the same creative, same audience, stable everything else** | The classic fatigue pattern — the same people seeing the same ad repeatedly, with engagement wearing off |
+| **CTR declining over time on the same creative, same audience, stable everything else** | The classic fatigue pattern the same people seeing the same ad repeatedly, with engagement wearing off |
 | **Frequency metric climbing alongside declining CTR** | A rising frequency (average number of times a single user has seen the ad) correlating with declining CTR is the clearest confirming signal |
-| **Performance recovers on the same audience when a new creative is introduced** | The strongest confirmation — if a fresh creative to the identical audience immediately performs better, fatigue (not audience quality) was the cause |
+| **Performance recovers on the same audience when a new creative is introduced** | The strongest confirmation if a fresh creative to the identical audience immediately performs better, fatigue (not audience quality) was the cause |
 
 ## What Looks Like Fatigue But Isn't
 
 - **Seasonal or day-of-week effects**: a broader decline across all creatives and audiences simultaneously points to external factors, not creative-specific fatigue.
-- **Audience saturation** (distinct from fatigue): if the addressable audience pool itself has been exhausted (everyone who could plausibly convert already has), a new creative won't fix a fundamentally too-small audience — this needs **remarketing-audience-builder** or broader audience expansion, not just fresh ad copy.
+- **Audience saturation** (distinct from fatigue): if the addressable audience pool itself has been exhausted (everyone who could plausibly convert already has), a new creative won't fix a fundamentally too-small audience this needs **remarketing-audience-builder** or broader audience expansion, not just fresh ad copy.
 - **A genuine relevance/targeting problem**: if CTR was never strong even on the initial creative, the problem may be targeting or ad relevance (see **quality-score-optimizer**), not fatigue from overexposure.
 
 ## Workflow
