@@ -19,11 +19,11 @@ Covers the specific metric set and structure for SEO reporting. For the general 
 
 | Source | What it shows | Why it's insufficient alone |
 |---|---|---|
-| **Analytics (GA4)** | Organic sessions, conversions, landing page performance | Doesn't explain *why* traffic moved — a ranking drop or a crawl error looks identical to "organic traffic went down" in GA4 alone |
+| **Analytics (GA4)** | Organic sessions, conversions, landing page performance | Doesn't explain *why* traffic moved a ranking drop or a crawl error looks identical to "organic traffic went down" in GA4 alone |
 | **Rank tracking** | Keyword position movement, SERP feature presence | Doesn't show whether ranking movement actually translated into traffic or conversions |
 | **Technical/crawl health** | Indexation status, crawl errors, Core Web Vitals | Explains ranking or traffic drops that have a technical root cause, but says nothing about whether the content itself is competitive |
 
-A report showing only GA4 traffic numbers cannot distinguish a content problem from a technical problem from a SERP-feature problem — this is the most common gap in SEO reporting.
+A report showing only GA4 traffic numbers cannot distinguish a content problem from a technical problem from a SERP-feature problem this is the most common gap in SEO reporting.
 
 ## Metric Tiers (applying the kpi-dashboard-builder framework)
 
@@ -33,10 +33,10 @@ A report showing only GA4 traffic numbers cannot distinguish a content problem f
 
 ## Workflow
 
-1. **Confirm the underlying data is reliable** — GA4 audit status, rank tracker location/device settings — before building on top of it.
+1. **Confirm the underlying data is reliable** GA4 audit status, rank tracker location/device settings before building on top of it.
 2. **Pull the north-star numbers** (organic sessions, conversions/revenue) with period-over-period comparison.
 3. **Pull the ranking summary** using the noise-filtering approach from **rank-tracking-summary**, not raw position swings.
-4. **Pull technical health status** — indexation, crawl errors, Core Web Vitals pass/fail.
+4. **Pull technical health status** indexation, crawl errors, Core Web Vitals pass/fail.
 5. **Cross-reference the three sources** for any notable movement: did a ranking change coincide with a traffic change? Did a crawl error spike precede a traffic drop?
 6. **Structure the output** in the three-tier hierarchy, with the narrative explanation (not just the numbers) placed next to the north-star metrics.
 
