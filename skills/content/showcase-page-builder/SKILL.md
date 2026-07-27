@@ -20,7 +20,7 @@ The gallery/index page structure. Not a single project's deep write-up (see **ca
 | Element | Guidance |
 |---|---|
 | **Filterable categories** | If the portfolio spans multiple service types or industries, let visitors filter rather than scroll through everything |
-| **Entry preview** | Image/thumbnail + one-line result or description per project — enough to decide whether to click through |
+| **Entry preview** | Image/thumbnail + one-line result or description per project enough to decide whether to click through |
 | **Consistent entry format** | Every entry should follow the same preview structure so the page reads as organized, not ad hoc |
 | **Link to detail** | Entries with enough depth link out to a full **case-study-writer** page; simpler entries can stay showcase-only |
 
