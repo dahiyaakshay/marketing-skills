@@ -19,7 +19,7 @@ Scheduling and sequencing. Not identifying what the content priorities should be
 
 | Principle | Why |
 |---|---|
-| **Pillar before spokes** | A cluster's spoke pages get more value linking to a pillar that already exists than the reverse — publish the pillar first or alongside the first batch of spokes |
+| **Pillar before spokes** | A cluster's spoke pages get more value linking to a pillar that already exists than the reverse publish the pillar first or alongside the first batch of spokes |
 | **Batch by subtheme** | Publishing several related spoke pages together (e.g. all "setup" pages, then all "comparison" pages) creates a stronger topical signal in a shorter window than trickling out one unrelated piece at a time |
 | **Seasonality-aware** | Time-sensitive content (see **evergreen-content-identifier**) needs to publish ahead of its relevant window, with enough runway for indexing |
 | **Resourcing-realistic** | A calendar that assumes unlimited writer/designer bandwidth gets abandoned; sequence around actual capacity |
