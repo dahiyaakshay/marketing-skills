@@ -56,7 +56,7 @@ Ask two questions before writing any rule:
 | **Selective** (most common in 2026) | Want citation eligibility but not training exposure | Block GPTBot, ClaudeBot, Google-Extended, CCBot, Bytespider; allow OAI-SearchBot, Claude-SearchBot, Claude-User, ChatGPT-User, PerplexityBot |
 | **Closed** | Content is proprietary/paywalled and citation is not a priority | Block all AI bots |
 
-## robots.txt Template — Selective Posture (most common)
+## robots.txt Template Selective Posture (most common)
 
 ```
 # Block training crawlers
