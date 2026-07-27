@@ -7,7 +7,7 @@ metadata:
 
 # GEO: Entity-Type Citation Strategy
 
-Differentiates AI-citation strategy by the type of entity being represented — a company, an individual expert, a product, and a local business each have different available corroboration signals and should be optimized differently.
+Differentiates AI-citation strategy by the type of entity being represented a company, an individual expert, a product, and a local business each have different available corroboration signals and should be optimized differently.
 
 **When invoking**: On first use, ask or confirm which entity type is the focus. On subsequent use, go straight to the type-specific strategy.
 
@@ -22,7 +22,7 @@ Entity-type-specific strategic differences. For the general mechanics of entity 
 | **Company/brand** | Organization schema, consistent naming across owned and third-party profiles, Wikidata/Wikipedia if notable enough | Inconsistent naming across subsidiaries, product lines, or regional sites |
 | **Individual expert** | Person schema, consistent author bylines across publications, credentials stated explicitly and consistently, presence on recognized professional platforms | Content published without consistent author attribution, making expertise hard for an AI system to attribute and corroborate |
 | **Product** | Product schema, consistent naming/model numbers, presence in comparison and review content across multiple independent sources | Product renamed or rebranded without updating historical mentions, fragmenting the entity signal across old and new names |
-| **Local business** | See **local-business-llm-visibility** and **gbp-optimizer** (local category) — local entity signals draw heavily on Google Business Profile data specifically | Inconsistent NAP (name/address/phone) data across directories, which fragments local entity confidence |
+| **Local business** | See **local-business-llm-visibility** and **gbp-optimizer** (local category) local entity signals draw heavily on Google Business Profile data specifically | Inconsistent NAP (name/address/phone) data across directories, which fragments local entity confidence |
 
 ## Workflow
 
