@@ -7,7 +7,7 @@ metadata:
 
 # Paid: A/B Test Planner
 
-Designs a structured test — one clear hypothesis, one clear variable, a defined sample size and duration — rather than an ad-hoc "let's try this and see" comparison that can't produce a reliable conclusion.
+Designs a structured test one clear hypothesis, one clear variable, a defined sample size and duration rather than an ad-hoc "let's try this and see" comparison that can't produce a reliable conclusion.
 
 **When invoking**: On first use, briefly note the single-variable principle below. On subsequent use, go straight to the test design.
 
@@ -20,10 +20,10 @@ Test design and structure. For diagnosing where in a funnel a test is even neede
 | Principle | Why |
 |---|---|
 | **One variable per test** | Testing multiple changes simultaneously (new headline + new image + new CTA all at once) makes it impossible to attribute the result to any single change |
-| **Clear, falsifiable hypothesis** | State the expected outcome and why, before running the test ("Changing the CTA from 'Submit' to 'Get My Free Quote' will increase conversion rate because it's more specific and lower-commitment-sounding") — this prevents post-hoc rationalization of whatever result comes out |
-| **Adequate sample size** | Low-traffic pages/campaigns need a longer test duration or a bigger expected effect size to reach statistical confidence — running a test on low volume and calling a result early is one of the most common CRO mistakes |
+| **Clear, falsifiable hypothesis** | State the expected outcome and why, before running the test ("Changing the CTA from 'Submit' to 'Get My Free Quote' will increase conversion rate because it's more specific and lower-commitment-sounding") this prevents post-hoc rationalization of whatever result comes out |
+| **Adequate sample size** | Low-traffic pages/campaigns need a longer test duration or a bigger expected effect size to reach statistical confidence running a test on low volume and calling a result early is one of the most common CRO mistakes |
 | **Fixed test duration decided in advance** | Stopping a test as soon as it looks like it's "winning" (rather than at the pre-planned sample size/duration) inflates the risk of a false positive |
-| **Account for external variability** | Day-of-week and seasonal effects can distort a short test — running a test across at least one full weekly cycle helps average these out |
+| **Account for external variability** | Day-of-week and seasonal effects can distort a short test running a test across at least one full weekly cycle helps average these out |
 
 ## Workflow
 
