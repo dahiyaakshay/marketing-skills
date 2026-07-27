@@ -26,7 +26,7 @@ Competitive comparison specifically. For a single-site audit without competitive
 
 ## What to Diagnose in a Competitor's Winning Page
 
-When a competitor is cited and the site isn't for the same query, check (in order): crawler access (is the site's equivalent page even reachable — see **ai-crawler-access-audit**), structural extractability (see **ai-citation-optimization**), freshness (see **geo-crawl-freshness-check**), and entity clarity (see **entity-density-optimizer**). Diagnosing in this order avoids restructuring content when the actual problem is that the page isn't being crawled at all.
+When a competitor is cited and the site isn't for the same query, check (in order): crawler access (is the site's equivalent page even reachable see **ai-crawler-access-audit**), structural extractability (see **ai-citation-optimization**), freshness (see **geo-crawl-freshness-check**), and entity clarity (see **entity-density-optimizer**). Diagnosing in this order avoids restructuring content when the actual problem is that the page isn't being crawled at all.
 
 ## Workflow
 
