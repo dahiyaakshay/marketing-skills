@@ -7,7 +7,7 @@ metadata:
 
 # Content: Content Brief Generator
 
-Produces a writer-ready brief that specifies audience, intent, structure, and required sources before any drafting starts — the goal is to remove ambiguity a writer would otherwise have to guess at.
+Produces a writer-ready brief that specifies audience, intent, structure, and required sources before any drafting starts the goal is to remove ambiguity a writer would otherwise have to guess at.
 
 **When invoking**: On first use, briefly note the brief's role as a pre-writing artifact. On subsequent use, go straight to producing it.
 
@@ -19,8 +19,8 @@ Pre-writing specification. Not the draft itself (see **blog-post-writer** and ot
 
 | Component | Purpose |
 |---|---|
-| **Primary keyword + 3–5 secondaries** | One primary per page, non-negotiable — prevents future cannibalization |
-| **Target audience & intent** | Who's reading and what they came to accomplish — shapes tone, depth, and structure decisions |
+| **Primary keyword + 3–5 secondaries** | One primary per page, non-negotiable prevents future cannibalization |
+| **Target audience & intent** | Who's reading and what they came to accomplish shapes tone, depth, and structure decisions |
 | **Outline (H2/H3 level)** | The subtopic structure, ideally informed by a **content-gap-analysis** against top-ranking competitors |
 | **Required sources / data** | Statistics, screenshots, or citations the writer needs to gather, flagged up front rather than discovered mid-draft |
 | **Internal link targets** | Which existing pages this piece should link to/from, with proposed anchor text |
@@ -31,7 +31,7 @@ Pre-writing specification. Not the draft itself (see **blog-post-writer** and ot
 
 1. Confirm the target primary keyword and cluster assignment (see **keyword-clustering**).
 2. Run or reference a **content-gap-analysis** to inform the outline against what top-ranking competitors already cover.
-3. Define audience and intent explicitly — don't leave this implicit.
+3. Define audience and intent explicitly don't leave this implicit.
 4. Draft the H2/H3 outline.
 5. List required sources/data and internal link targets.
 6. Specify format and length guidance, and hand the brief to **blog-post-writer** or the relevant page-type skill.
