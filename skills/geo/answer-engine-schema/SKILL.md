@@ -19,21 +19,21 @@ AI-citation-specific schema selection and priority. For general schema implement
 
 | Schema type | Why it matters for AI citation |
 |---|---|
-| **FAQPage** | Directly matches the question-answer extraction pattern AI systems favor — explicit machine-readable Q&A pairs |
+| **FAQPage** | Directly matches the question-answer extraction pattern AI systems favor explicit machine-readable Q&A pairs |
 | **HowTo** | Structures step-based content in a format that's naturally extractable as a self-contained procedure |
-| **Article / NewsArticle** | Signals authorship, publish/update date, and publisher — feeding directly into freshness and E-E-A-T signals |
+| **Article / NewsArticle** | Signals authorship, publish/update date, and publisher feeding directly into freshness and E-E-A-T signals |
 | **Organization / Person** | Supports entity clarity and disambiguation (see **entity-density-optimizer**) |
 | **Product** | Supports structured extraction of price, availability, and rating for product-related queries |
 
-Explicit schema markup has been associated with a meaningfully higher citation selection rate compared to equivalent unmarked content, reinforcing that structured data is not just a traditional-search rich-result tactic — it's directly relevant to AI extraction as well.
+Explicit schema markup has been associated with a meaningfully higher citation selection rate compared to equivalent unmarked content, reinforcing that structured data is not just a traditional-search rich-result tactic it's directly relevant to AI extraction as well.
 
 ## Workflow
 
 1. Identify the highest-priority pages for AI citation (per **geo-competitive-benchmark** or existing traffic value).
-2. Select the schema type(s) matching the content's actual structure — don't force FAQPage schema onto content that isn't genuinely question-and-answer formatted.
+2. Select the schema type(s) matching the content's actual structure don't force FAQPage schema onto content that isn't genuinely question-and-answer formatted.
 3. Implement the schema with complete, accurate properties (not placeholder or thin data).
 4. Validate the markup with a structured data testing tool before publishing.
-5. Pair schema implementation with the content-level structural work from **ai-citation-optimization** — schema alone doesn't substitute for genuinely well-structured prose.
+5. Pair schema implementation with the content-level structural work from **ai-citation-optimization** schema alone doesn't substitute for genuinely well-structured prose.
 
 ## Related Skills
 
