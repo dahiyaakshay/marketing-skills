@@ -17,21 +17,21 @@ Diagnosing and resolving existing overlap between owned pages. Not the upfront k
 
 ## Detection Method
 
-Run a SERP overlap check for the suspected keyword: if two of the site's own pages appear in the same search results for the same query, that's the clearest signal of cannibalization — not just similar topics, but literal competing rankings.
+Run a SERP overlap check for the suspected keyword: if two of the site's own pages appear in the same search results for the same query, that's the clearest signal of cannibalization not just similar topics, but literal competing rankings.
 
 ## Decision Matrix
 
 | Condition | Action |
 |---|---|
-| Two pages target the same keyword and serve identical intent | **Consolidate** — merge into one stronger page, 301 redirect the weaker one |
-| One page clearly outperforms the other on the same term | **Consolidate toward the winner** — redirect the underperformer, don't leave both live |
-| Each page ranks for hundreds of distinct keywords beyond the overlapping term | **Keep separate** — the overlap is incidental, not a true competition |
+| Two pages target the same keyword and serve identical intent | **Consolidate** merge into one stronger page, 301 redirect the weaker one |
+| One page clearly outperforms the other on the same term | **Consolidate toward the winner** redirect the underperformer, don't leave both live |
+| Each page ranks for hundreds of distinct keywords beyond the overlapping term | **Keep separate** the overlap is incidental, not a true competition |
 | Pages serve genuinely different intents despite similar topic | **Keep separate**, but clarify the differentiation in titles/H1s so both search engines and readers can tell them apart |
-| A page is simply off-topic relative to its cluster | Don't delete outright — noindex or fold into the correct cluster to preserve any link equity |
+| A page is simply off-topic relative to its cluster | Don't delete outright noindex or fold into the correct cluster to preserve any link equity |
 
 ## Prevention (the cheaper fix)
 
-The most effective prevention is assigning clear keyword ownership at the clustering stage — every keyword maps to exactly one URL before content is written (see **keyword-clustering**). Maintain a tracking sheet of primary keyword → target URL → cluster assignment, and review it quarterly; cannibalization tends to accumulate silently as new content gets published without checking the existing map.
+The most effective prevention is assigning clear keyword ownership at the clustering stage every keyword maps to exactly one URL before content is written (see **keyword-clustering**). Maintain a tracking sheet of primary keyword → target URL → cluster assignment, and review it quarterly; cannibalization tends to accumulate silently as new content gets published without checking the existing map.
 
 ## Workflow
 
