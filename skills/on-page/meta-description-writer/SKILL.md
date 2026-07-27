@@ -7,7 +7,7 @@ metadata:
 
 # On-Page: Meta Description Writer
 
-Writes meta descriptions optimized for click-through rate — not a direct ranking factor itself, but an important lever for converting an impression into a click, and one search engines will override with an auto-generated snippet if the provided description doesn't seem to match the query well.
+Writes meta descriptions optimized for click-through rate not a direct ranking factor itself, but an important lever for converting an impression into a click, and one search engines will override with an auto-generated snippet if the provided description doesn't seem to match the query well.
 
 **When invoking**: On first use, briefly note that this isn't a ranking factor but is a CTR factor. On subsequent use, go straight to drafting.
 
@@ -22,11 +22,11 @@ Meta description copy. For the title tag, see **title-tag-optimizer**.
 | **Length** | Roughly 150–160 characters is a safe range before truncation, though again pixel-width based rather than a hard character count |
 | **Direct answer or value proposition** | State clearly what the page delivers, ideally including the target keyword naturally (search engines often bold matching terms in the snippet, which draws the eye) |
 | **Call to action** | A light, natural prompt ("Learn how...", "Compare options...") can improve CTR without reading as an ad |
-| **Uniqueness per page** | Every indexable page should have its own description — duplicate descriptions across pages waste the opportunity and can look like a content-quality issue at scale |
+| **Uniqueness per page** | Every indexable page should have its own description duplicate descriptions across pages waste the opportunity and can look like a content-quality issue at scale |
 
 ## Why Search Engines Sometimes Ignore This
 
-Search engines frequently override a provided meta description with an auto-generated snippet pulled from page content if they judge the query-specific auto-generated version to be more relevant than the static description — this happens more often for long-tail or highly specific queries. Writing a genuinely relevant, specific description (not generic boilerplate) reduces how often it gets overridden.
+Search engines frequently override a provided meta description with an auto-generated snippet pulled from page content if they judge the query-specific auto-generated version to be more relevant than the static description this happens more often for long-tail or highly specific queries. Writing a genuinely relevant, specific description (not generic boilerplate) reduces how often it gets overridden.
 
 ## Workflow
 
