@@ -7,7 +7,7 @@ metadata:
 
 # On-Page: FAQ Schema Builder
 
-Implements FAQPage schema for genuine question-and-answer content — a well-suited pairing with the answer-first content patterns that also help with AI citation, since both reward explicit, self-contained Q&A structure.
+Implements FAQPage schema for genuine question-and-answer content a well-suited pairing with the answer-first content patterns that also help with AI citation, since both reward explicit, self-contained Q&A structure.
 
 **When invoking**: On first use, briefly confirm the content is genuinely FAQ-formatted, not forced. On subsequent use, go straight to implementation.
 
@@ -36,10 +36,10 @@ FAQPage schema implementation specifically. For schema type selection more broad
 
 | Element | Guidance |
 |---|---|
-| **Genuine Q&A content only** | Every question in the schema must have a corresponding visible question and answer on the page — schema for content not actually visible on the page is a policy violation, not just a bad practice |
+| **Genuine Q&A content only** | Every question in the schema must have a corresponding visible question and answer on the page schema for content not actually visible on the page is a policy violation, not just a bad practice |
 | **Complete, self-contained answers** | The answer text should make sense on its own, matching the same self-contained-passage principle that helps AI citation (see **ai-citation-optimization**) |
 | **Real questions, not keyword-stuffed variants** | Base questions on genuine reader questions (support tickets, sales conversations, "People Also Ask") rather than manufacturing awkward keyword-variant questions purely for schema coverage |
-| **Don't overuse** | Reserve FAQPage schema for pages genuinely structured as FAQ content — forcing it onto every page dilutes its signal value and risks appearing manipulative |
+| **Don't overuse** | Reserve FAQPage schema for pages genuinely structured as FAQ content forcing it onto every page dilutes its signal value and risks appearing manipulative |
 
 ## Workflow
 
