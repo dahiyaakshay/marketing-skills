@@ -19,7 +19,7 @@ URL slug and path structure design. For the redirect implementation required whe
 
 | Element | Guidance |
 |---|---|
-| **Readable words, not parameters** | `/blog/content-marketing-guide` over `/blog?id=4821` — descriptive slugs are more user- and search-engine-friendly |
+| **Readable words, not parameters** | `/blog/content-marketing-guide` over `/blog?id=4821` descriptive slugs are more user- and search-engine-friendly |
 | **Hyphens, not underscores** | Search engines treat hyphens as word separators; underscores are treated as joining characters, potentially merging words together in interpretation |
 | **Lowercase only** | Avoids case-sensitivity duplicate-URL issues on servers where `/Page` and `/page` could resolve as different URLs |
 | **Reasonable length** | Concise and descriptive; avoid stuffing every possible keyword variant into the slug |
