@@ -7,17 +7,17 @@ metadata:
 
 # GEO: Local Business LLM Visibility
 
-Optimizes a local business's odds of being recommended by AI systems for local and category-based queries — a distinct problem from general GEO, since local recommendation draws heavily on structured local data (Google Business Profile, citations) rather than purely on web content.
+Optimizes a local business's odds of being recommended by AI systems for local and category-based queries a distinct problem from general GEO, since local recommendation draws heavily on structured local data (Google Business Profile, citations) rather than purely on web content.
 
 **When invoking**: On first use, briefly note the local-data dependency below. On subsequent use, go straight to the optimization.
 
 ## Scope
 
-AI-recommendation visibility for local businesses specifically. Draws heavily on **gbp-optimizer** and **local-citation-audit** (local category) as prerequisites — this skill is the AI-specific layer on top of that local SEO foundation.
+AI-recommendation visibility for local businesses specifically. Draws heavily on **gbp-optimizer** and **local-citation-audit** (local category) as prerequisites this skill is the AI-specific layer on top of that local SEO foundation.
 
 ## Why Local AI Visibility Depends on Structured Data More Than Prose
 
-Unlike general topical GEO, where well-written web content can independently earn citation, local business recommendation by AI systems draws heavily on structured, verifiable local data — Google Business Profile completeness, consistent NAP (name/address/phone) data across directories, and review content — rather than primarily on the business's own website copy. A beautifully written local landing page with inconsistent NAP data across the web will likely underperform a plainer page backed by clean, consistent local data.
+Unlike general topical GEO, where well-written web content can independently earn citation, local business recommendation by AI systems draws heavily on structured, verifiable local data Google Business Profile completeness, consistent NAP (name/address/phone) data across directories, and review content rather than primarily on the business's own website copy. A beautifully written local landing page with inconsistent NAP data across the web will likely underperform a plainer page backed by clean, consistent local data.
 
 ## Key Dependencies
 
@@ -32,7 +32,7 @@ Unlike general topical GEO, where well-written web content can independently ear
 
 1. Confirm GBP completeness and category accuracy (see **gbp-optimizer**).
 2. Audit NAP consistency across major directories (see **local-citation-audit**).
-3. Review the volume and substance of customer reviews — thin or sparse review content limits what an AI system has to draw on.
+3. Review the volume and substance of customer reviews thin or sparse review content limits what an AI system has to draw on.
 4. Apply general AI-citation structure to the business's local landing pages.
 5. Directly query relevant AI platforms with representative local queries ("best [category] near [location]") to verify actual recommendation behavior.
 
