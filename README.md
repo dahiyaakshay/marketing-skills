@@ -1,6 +1,6 @@
 # Marketing Skills (Akshay Dahiya)
 
-Agent Skills for SEO, Content, and GEO (Generative Engine Optimization). Markdown skill files following the Agent Skills spec — no lock-in to a single tool. Works with Claude Code, Cursor, Claude.ai (paste the SKILL.md contents), and any agent supporting the spec.
+Agent Skills for SEO, Content, and GEO (Generative Engine Optimization). Markdown skill files following the Agent Skills spec no lock-in to a single tool. Works with Claude Code, Cursor, Claude.ai (paste the SKILL.md contents), and any agent supporting the spec.
 
 ## Structure
 
@@ -36,7 +36,7 @@ cp -r marketing-skills/templates .cursor/
 
 ## Add Project Context
 
-Skills read `project-context.md` automatically if present in `.claude/` or `.cursor/`. Copy the template from `templates/project-context.md` and fill in your product, audience, and brand voice — without this, output stays generic.
+Skills read `project-context.md` automatically if present in `.claude/` or `.cursor/`. Copy the template from `templates/project-context.md` and fill in your product, audience, and brand voice without this, output stays generic.
 
 ## Skill Directory
 
@@ -46,8 +46,8 @@ Skills read `project-context.md` automatically if present in `.claude/` or `.cur
 | content-optimizer | content | Scoring existing drafts for SEO, readability, topical depth |
 | ai-citation-optimization | geo | Structuring content to be extracted/cited by AI answer engines |
 
-*(Full list grows as skills are added — see individual folders.)*
+*(Full list grows as skills are added see individual folders.)*
 
 ## Status
 
-Early-stage, actively expanding. Built by [Akshay Dahiya](https://akshaydahiya.site) — GEO researcher and developer of AI Spider (AI retrievability audit), MarAI (AI marketing ops), and RankScan (AI visibility research).
+Early-stage, actively expanding. Built by [Akshay Dahiya](https://akshaydahiya.site) GEO researcher and developer of AI Spider (AI retrievability audit), MarAI (AI marketing ops), and RankScan (AI visibility research).
