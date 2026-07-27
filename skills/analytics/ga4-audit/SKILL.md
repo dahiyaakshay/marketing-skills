@@ -15,7 +15,7 @@ Systematically inspects a GA4 property for the configuration errors that silentl
 
 Covers GA4 property configuration, data collection integrity, and cross-platform alignment (GA4 ↔ Google Ads ↔ Search Console). Does not cover attribution model selection (see **attribution-model-selector**), funnel-stage drop-off analysis (see **conversion-funnel-analysis**), or dashboard/report building on top of already-clean data (see **seo-reporting-dashboard**, **kpi-dashboard-builder**).
 
-## Audit Checklist — 6 Categories
+## Audit Checklist - 6 Categories
 
 | Category | What to check | Why it matters |
 |---|---|---|
