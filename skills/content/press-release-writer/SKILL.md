@@ -7,7 +7,7 @@ metadata:
 
 # Content: Press Release Writer
 
-Drafts a press release in standard journalistic format — inverted pyramid structure, factual tone, quotes — distinct from marketing copy that leads with persuasion.
+Drafts a press release in standard journalistic format inverted pyramid structure, factual tone, quotes distinct from marketing copy that leads with persuasion.
 
 **When invoking**: On first use, confirm the core newsworthy fact before drafting. On subsequent use, go straight to drafting.
 
@@ -19,8 +19,8 @@ The release document itself. Not the outreach/pitch to journalists (see **digita
 
 | Element | Guidance |
 |---|---|
-| **Headline** | States the news factually, not promotionally — avoid superlatives a journalist would strip out anyway |
-| **Dateline + lead paragraph** | Answers who/what/when/where/why in the first paragraph — inverted pyramid, most important fact first |
+| **Headline** | States the news factually, not promotionally avoid superlatives a journalist would strip out anyway |
+| **Dateline + lead paragraph** | Answers who/what/when/where/why in the first paragraph inverted pyramid, most important fact first |
 | **Body** | Supporting detail, in descending order of importance, so it can be cut from the bottom without losing the core news |
 | **Quote(s)** | From a named spokesperson, adding perspective rather than repeating the headline fact |
 | **Boilerplate** | Standard company description, unchanged release to release |
@@ -28,13 +28,13 @@ The release document itself. Not the outreach/pitch to journalists (see **digita
 
 ## Tone Principles
 
-- Write as a neutral third-party report of the news, not as an advertisement — journalists discount or rewrite anything that reads as overtly promotional.
+- Write as a neutral third-party report of the news, not as an advertisement journalists discount or rewrite anything that reads as overtly promotional.
 - Avoid unverifiable superlatives ("revolutionary," "industry-leading") unless directly attributable to a quote.
 - Keep sentences and paragraphs short — journalistic style favors clarity over elaborate sentence construction.
 
 ## Workflow
 
-1. Identify the single core newsworthy fact — the release should have exactly one.
+1. Identify the single core newsworthy fact the release should have exactly one.
 2. Draft the lead paragraph answering who/what/when/where/why.
 3. Add supporting body detail in descending importance.
 4. Draft a quote that adds perspective, not repetition.
