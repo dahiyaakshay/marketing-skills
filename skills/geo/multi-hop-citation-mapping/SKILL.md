@@ -7,7 +7,7 @@ metadata:
 
 # GEO: Multi-Hop Citation Mapping
 
-Maps how AI answer engines perform "fan-out" — issuing multiple related sub-queries to gather and cross-reference several sources before assembling a single answer — and identifies where a site's content fits into that broader retrieval pattern rather than assuming one page competes for one query in isolation.
+Maps how AI answer engines perform "fan-out" issuing multiple related sub-queries to gather and cross-reference several sources before assembling a single answer and identifies where a site's content fits into that broader retrieval pattern rather than assuming one page competes for one query in isolation.
 
 **When invoking**: On first use, briefly explain the fan-out concept below. On subsequent use, go straight to the mapping.
 
@@ -17,15 +17,15 @@ Multi-source, multi-query citation patterns. Not single-page structural optimiza
 
 ## What Fan-Out Means in Practice
 
-Beyond ranking for the literal query typed by a user, AI systems often run several supplementary searches to ground and supplement their answer — a query about "best CRM for small business" might trigger separate sub-queries for pricing comparisons, specific competitor names, and recent reviews, each potentially pulling from a different source. A page's citation odds depend not only on how well it answers the primary query but also on how well it ranks for these related fan-out queries — evidence shows a clear relationship between ranking well on fan-out-adjacent queries and being cited in the final answer.
+Beyond ranking for the literal query typed by a user, AI systems often run several supplementary searches to ground and supplement their answer a query about "best CRM for small business" might trigger separate sub-queries for pricing comparisons, specific competitor names, and recent reviews, each potentially pulling from a different source. A page's citation odds depend not only on how well it answers the primary query but also on how well it ranks for these related fan-out queries evidence shows a clear relationship between ranking well on fan-out-adjacent queries and being cited in the final answer.
 
 ## Mapping Workflow
 
 | Step | What to do |
 |---|---|
 | 1. Identify the primary target query | The main query a piece of content is built around |
-| 2. Brainstorm likely fan-out sub-queries | Comparison variants, "best X for Y" variants, pricing/spec-specific variants, recent-news variants — the kinds of adjacent questions an AI system would plausibly ask to enrich its answer |
-| 3. Check current ranking/citation status for each sub-query | Not just the primary query — a page or site can win the primary query but lose valuable fan-out citations entirely |
+| 2. Brainstorm likely fan-out sub-queries | Comparison variants, "best X for Y" variants, pricing/spec-specific variants, recent-news variants the kinds of adjacent questions an AI system would plausibly ask to enrich its answer |
+| 3. Check current ranking/citation status for each sub-query | Not just the primary query a page or site can win the primary query but lose valuable fan-out citations entirely |
 | 4. Identify gaps | Sub-queries where the site has no strong candidate page at all represent a citation opportunity, not just a ranking one |
 
 ## Workflow
