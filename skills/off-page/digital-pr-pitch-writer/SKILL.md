@@ -7,7 +7,7 @@ metadata:
 
 # Off-Page: Digital PR Pitch Writer
 
-Pitches proactive, outbound story ideas to journalists — original data, a newsworthy angle, or a timely expert commentary opportunity — distinct from responding to an inbound journalist query (see **haro-response-writer**).
+Pitches proactive, outbound story ideas to journalists original data, a newsworthy angle, or a timely expert commentary opportunity distinct from responding to an inbound journalist query (see **haro-response-writer**).
 
 **When invoking**: On first use, confirm there's a genuinely newsworthy angle before drafting. On subsequent use, go straight to the pitch.
 
@@ -24,7 +24,7 @@ A pitch built around original data, a genuinely surprising finding, or a timely 
 | Element | Guidance |
 |---|---|
 | **Subject line** | States the newsworthy hook directly, not a vague teaser |
-| **Opening line** | The core finding or angle, in one sentence — journalists decide whether to keep reading within seconds |
+| **Opening line** | The core finding or angle, in one sentence journalists decide whether to keep reading within seconds |
 | **Supporting data/evidence** | Specific, credible numbers or examples backing the angle |
 | **Relevance to this specific journalist/publication** | Reference their beat or recent coverage showing this pitch was targeted, not blasted to a generic list |
 | **Easy next step** | Offer availability for a quick call or additional data, not a demand for a specific placement |
