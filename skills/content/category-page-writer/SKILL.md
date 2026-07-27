@@ -7,7 +7,7 @@ metadata:
 
 # Content: Category Page Writer
 
-Writes the introductory copy and structural elements for a category/collection page — content that must serve both browsing shoppers and search engines without competing with the product grid it sits above.
+Writes the introductory copy and structural elements for a category/collection page content that must serve both browsing shoppers and search engines without competing with the product grid it sits above.
 
 **When invoking**: On first use, confirm the category's position in the site hierarchy (top-level vs. subcategory). On subsequent use, go straight to drafting.
 
@@ -17,14 +17,14 @@ Category/collection page copy. Not individual product descriptions (see **produc
 
 ## Structural Balance
 
-The most common mistake on category pages is writing long-form copy that pushes the product grid below the fold — category page copy should be brief above the grid (a sentence or two orienting the shopper) with any longer SEO-oriented copy placed below the products, where it doesn't interfere with the browsing experience.
+The most common mistake on category pages is writing long-form copy that pushes the product grid below the fold category page copy should be brief above the grid (a sentence or two orienting the shopper) with any longer SEO-oriented copy placed below the products, where it doesn't interfere with the browsing experience.
 
 | Element | Placement |
 |---|---|
-| **Short intro** | Above the grid — one to two sentences, orienting the shopper, not a full essay |
-| **Product grid** | The primary content of the page — should load immediately, not be pushed down by copy |
+| **Short intro** | Above the grid one to two sentences, orienting the shopper, not a full essay |
+| **Product grid** | The primary content of the page should load immediately, not be pushed down by copy |
 | **Filter/sort options** | Visible and functional near the top of the grid |
-| **Longer descriptive copy** | Below the grid — this is where target keywords, category depth, and buying-guide-style content belong |
+| **Longer descriptive copy** | Below the grid this is where target keywords, category depth, and buying-guide-style content belong |
 | **Internal links to subcategories** | Placed logically, either in navigation or within the below-grid copy |
 
 ## Workflow
