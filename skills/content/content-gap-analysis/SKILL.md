@@ -7,7 +7,7 @@ metadata:
 
 # Content: Content Gap Analysis
 
-Identifies topics, subtopics, and keyword variants that ranking competitors cover but the site doesn't — site-wide, not page-by-page.
+Identifies topics, subtopics, and keyword variants that ranking competitors cover but the site doesn't site-wide, not page-by-page.
 
 **When invoking**: On first use, briefly note this is a site-wide diagnostic, distinct from single-page scoring. On subsequent use, go straight to the analysis.
 
@@ -28,8 +28,8 @@ Site-wide topical coverage vs. competitors. Not single-page optimization (see **
 
 | Gap type | Action |
 |---|---|
-| Subtopic covered by 3+ competitors, missing entirely on-site | High priority — likely a genuine authority gap |
-| Subtopic covered thinly on-site (buried, not a dedicated section) | Medium priority — expand existing page rather than create new one |
+| Subtopic covered by 3+ competitors, missing entirely on-site | High priority likely a genuine authority gap |
+| Subtopic covered thinly on-site (buried, not a dedicated section) | Medium priority expand existing page rather than create new one |
 | Subtopic only 1 competitor covers | Low priority unless it's a rising trend term |
 | Gap is really a different intent, not a missing topic | Not a gap — don't force content that doesn't match what searchers want |
 
