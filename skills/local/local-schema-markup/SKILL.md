@@ -19,16 +19,16 @@ LocalBusiness-specific schema. For general (non-local) schema types, see **schem
 
 | Property | Guidance |
 |---|---|
-| **name, address, telephone** | Must exactly match the canonical NAP established in **local-citation-audit** — mismatches between schema and visible page content undermine trust in the markup |
-| **LocalBusiness subtype** | Use the most specific applicable subtype (e.g. Restaurant, Dentist, Plumber) rather than the generic LocalBusiness type where a more specific one exists — specificity aids relevance matching the same way GBP category specificity does |
-| **openingHours** | Structured, current hours — inconsistent or outdated hours in schema versus what's shown on GBP creates a trust discrepancy |
+| **name, address, telephone** | Must exactly match the canonical NAP established in **local-citation-audit** mismatches between schema and visible page content undermine trust in the markup |
+| **LocalBusiness subtype** | Use the most specific applicable subtype (e.g. Restaurant, Dentist, Plumber) rather than the generic LocalBusiness type where a more specific one exists specificity aids relevance matching the same way GBP category specificity does |
+| **openingHours** | Structured, current hours inconsistent or outdated hours in schema versus what's shown on GBP creates a trust discrepancy |
 | **geo (latitude/longitude)** | Supports accurate map and proximity-based display |
 | **priceRange, servesCuisine, or category-specific properties** | Populate any subtype-specific properties available, since these add relevance signal beyond the base LocalBusiness fields |
 | **aggregateRating / review** | If displaying reviews on-page, mark them up so they're eligible for rich results, using only genuine review data |
 
 ## Consistency Is the Priority
 
-Every value in the schema must match what's visibly on the page and consistent with the GBP listing and directory citations — schema that contradicts visible content or other verified business data is a red flag rather than a ranking boost, since it signals a broken or manipulated data source rather than a trustworthy one.
+Every value in the schema must match what's visibly on the page and consistent with the GBP listing and directory citations schema that contradicts visible content or other verified business data is a red flag rather than a ranking boost, since it signals a broken or manipulated data source rather than a trustworthy one.
 
 ## Workflow
 
