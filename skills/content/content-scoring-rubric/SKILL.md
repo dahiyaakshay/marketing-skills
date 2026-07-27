@@ -7,7 +7,7 @@ metadata:
 
 # Content: Content Scoring Rubric
 
-Defines a repeatable, library-wide quality rubric so every piece of content — regardless of author or age — is judged against the same standard, distinct from **content-optimizer**'s single-page, SEO-focused scoring pass.
+Defines a repeatable, library-wide quality rubric so every piece of content regardless of author or age is judged against the same standard, distinct from **content-optimizer**'s single-page, SEO-focused scoring pass.
 
 **When invoking**: On first use, briefly note this is a library-wide standard, not a one-off score. On subsequent use, go straight to applying it.
 
@@ -27,7 +27,7 @@ A standing quality bar applied across a content library, used for editorial QA a
 
 ## Using the Rubric at Library Scale
 
-Apply the rubric as a periodic library-wide pass, not just at publication — content quality is not static, and a page that scored well at launch can decay in accuracy and competitiveness without any single dramatic event. Use the resulting scores to feed **content-refresh-audit** (moderate scores, worth saving) and **content-pruning-audit** (low scores with no realistic path to improvement).
+Apply the rubric as a periodic library-wide pass, not just at publication content quality is not static, and a page that scored well at launch can decay in accuracy and competitiveness without any single dramatic event. Use the resulting scores to feed **content-refresh-audit** (moderate scores, worth saving) and **content-pruning-audit** (low scores with no realistic path to improvement).
 
 ## Workflow
 
