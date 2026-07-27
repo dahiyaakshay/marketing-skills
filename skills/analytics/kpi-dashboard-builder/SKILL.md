@@ -7,7 +7,7 @@ metadata:
 
 # Analytics: KPI Dashboard Builder
 
-Designs a dashboard around the small number of metrics that actually drive decisions for a specific audience, rather than surfacing every available metric. The most common dashboard failure isn't missing data — it's too much data, presented with equal visual weight, so nothing stands out as actionable.
+Designs a dashboard around the small number of metrics that actually drive decisions for a specific audience, rather than surfacing every available metric. The most common dashboard failure isn't missing data it's too much data, presented with equal visual weight, so nothing stands out as actionable.
 
 **When invoking**: On first use, briefly explain the audience-first framing before building the metric list. On subsequent use, go straight to the dashboard spec.
 
@@ -17,14 +17,14 @@ Covers metric selection, hierarchy, and dashboard structure. Does not cover the 
 
 ## Audience-First Framing
 
-The right metrics depend entirely on who's looking and what decision they're making with the dashboard — a dashboard is not "more useful" for including more metrics.
+The right metrics depend entirely on who's looking and what decision they're making with the dashboard a dashboard is not "more useful" for including more metrics.
 
 | Audience | What they need to decide | Typical top-level metrics |
 |---|---|---|
-| **Executive/C-suite** | Is the business/channel healthy, and does it need attention? | Revenue, CAC, LTV, overall conversion rate, 1–2 leading indicators — rarely more than 5–6 numbers total |
+| **Executive/C-suite** | Is the business/channel healthy, and does it need attention? | Revenue, CAC, LTV, overall conversion rate, 1–2 leading indicators rarely more than 5–6 numbers total |
 | **Marketing lead** | Where should budget and effort shift this month? | Channel-level traffic, conversion rate by channel, cost per conversion, funnel stage drop-off |
 | **SEO/content specialist** | What content or technical work should happen next? | Organic sessions, ranking movement, indexed pages, crawl errors, top landing pages by conversion |
-| **Client (external)** | Is the engagement delivering value? | Outcome metrics tied to the contract (leads, revenue, rankings for agreed terms) — avoid vanity metrics not tied to what was promised |
+| **Client (external)** | Is the engagement delivering value? | Outcome metrics tied to the contract (leads, revenue, rankings for agreed terms) avoid vanity metrics not tied to what was promised |
 
 ## Metric Hierarchy
 
@@ -37,13 +37,13 @@ Structure every dashboard in three tiers so the eye lands on what matters first:
 ## Common Mistakes to Avoid
 
 - **Vanity metrics without context**: raw session counts or impressions with no conversion or revenue tie-in tell a stakeholder nothing about business impact.
-- **Equal visual weight for all metrics**: if everything is the same font size and prominence, nothing is prioritized — the dashboard fails at its one job.
+- **Equal visual weight for all metrics**: if everything is the same font size and prominence, nothing is prioritized the dashboard fails at its one job.
 - **No comparison baseline**: a number without a prior-period or target comparison can't be judged as good or bad at a glance.
-- **Metrics that don't map to a decision**: if a stakeholder can't say what action they'd take differently based on a metric moving, it doesn't belong on their dashboard — it may still belong in the drill-down layer.
+- **Metrics that don't map to a decision**: if a stakeholder can't say what action they'd take differently based on a metric moving, it doesn't belong on their dashboard it may still belong in the drill-down layer.
 
 ## Workflow
 
-1. **Identify the audience and the decision(s)** they make using this dashboard — not just "reporting on performance" in the abstract.
+1. **Identify the audience and the decision(s)** they make using this dashboard not just "reporting on performance" in the abstract.
 2. **Select 1–3 north-star metrics** that most directly answer whether things are going well for that audience.
 3. **Select 4–8 supporting metrics** that explain movement in the north-star metrics.
 4. **Add comparison context** (prior period, target, benchmark) to every top-tier metric.
