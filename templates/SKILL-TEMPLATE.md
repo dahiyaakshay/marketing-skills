@@ -9,7 +9,7 @@ metadata:
 
 One or two sentences: what this skill does, and why it matters / what mistake it prevents. If the skill overlaps with a sibling skill, name the boundary here (e.g. "this covers X; for Y, see sibling-skill").
 
-**When invoking**: On first use, [what to do before the main output — e.g. briefly explain a key distinction]. On subsequent use, or when the user asks to skip, go directly to the main output.
+**When invoking**: On first use, [what to do before the main output e.g. briefly explain a key distinction]. On subsequent use, or when the user asks to skip, go directly to the main output.
 
 ## Scope
 
@@ -25,7 +25,7 @@ The single most important framework, distinction, or piece of background knowled
 
 ## [Reference Table Section]
 
-A concrete reference table of the entities, tools, platforms, or variables this skill deals with — the kind of lookup a practitioner would otherwise have to search for separately.
+A concrete reference table of the entities, tools, platforms, or variables this skill deals with the kind of lookup a practitioner would otherwise have to search for separately.
 
 | Item | Detail 1 | Detail 2 | Recommended posture/action |
 |---|---|---|---|
@@ -41,7 +41,7 @@ The questions someone should ask themselves to choose between approaches, follow
 
 ## Workflow
 
-Numbered, concrete steps for actually executing the skill — written so an agent could follow them mechanically:
+Numbered, concrete steps for actually executing the skill written so an agent could follow them mechanically:
 
 1. Step one — what to gather or check first.
 2. Step two — the core analysis or transformation.
