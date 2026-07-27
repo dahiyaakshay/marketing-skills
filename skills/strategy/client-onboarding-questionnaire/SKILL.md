@@ -7,7 +7,7 @@ metadata:
 
 # Strategy: Client Onboarding Questionnaire
 
-Builds the intake questionnaire that establishes what a new client actually values before any strategy or reporting work begins — the questions asked here directly shape what **client-report-writer** (content category) should emphasize later, so gaps here become gaps in every subsequent report.
+Builds the intake questionnaire that establishes what a new client actually values before any strategy or reporting work begins the questions asked here directly shape what **client-report-writer** (content category) should emphasize later, so gaps here become gaps in every subsequent report.
 
 **When invoking**: On first use, briefly note that this feeds forward into reporting emphasis. On subsequent use, go straight to building the questionnaire.
 
@@ -20,7 +20,7 @@ Onboarding question design. The output should populate a project-context referen
 | Category | Sample questions | Why it matters |
 |---|---|---|
 | **Business context** | What does the business do, who's the ideal customer, what's the sales cycle length | Shapes content, targeting, and attribution-window decisions across nearly every other skill in this library |
-| **Success definition** | What specific metric(s) define success for this engagement — leads, revenue, rankings for specific terms, traffic | Prevents a later mismatch where the agency reports on vanity metrics the client never cared about (see **client-report-writer**) |
+| **Success definition** | What specific metric(s) define success for this engagement leads, revenue, rankings for specific terms, traffic | Prevents a later mismatch where the agency reports on vanity metrics the client never cared about (see **client-report-writer**) |
 | **Prior history** | Past agencies/efforts, known technical issues, any past penalties or migrations | Avoids repeating past mistakes and surfaces context a fresh technical audit might miss |
 | **Competitors** | Who they consider their real competitors (not always who ranks alongside them) | Client-perceived competitors and algorithmically-identified competitors sometimes diverge meaningfully |
 | **Brand/style preferences** | Tone, banned phrases, regional spelling, approval process | Feeds directly into **editorial-style-guide** (content category) |
