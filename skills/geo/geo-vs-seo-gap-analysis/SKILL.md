@@ -7,17 +7,17 @@ metadata:
 
 # GEO: GEO vs. SEO Gap Analysis
 
-Compares a page's traditional organic ranking against its AI-citation performance to identify pages that succeed in one dimension but not the other — a diagnostic specifically for the disconnect between the two, not a general audit of either alone.
+Compares a page's traditional organic ranking against its AI-citation performance to identify pages that succeed in one dimension but not the other a diagnostic specifically for the disconnect between the two, not a general audit of either alone.
 
 **When invoking**: On first use, briefly explain why the two can diverge. On subsequent use, go straight to the comparison.
 
 ## Scope
 
-The comparative gap between traditional ranking and AI citation for the same content. Not a general SEO audit (see **seo-audit-to-roadmap**, strategy category) or a general AI-citation audit (see **llm-retrievability-audit**) in isolation — this skill's value is in the side-by-side comparison.
+The comparative gap between traditional ranking and AI citation for the same content. Not a general SEO audit (see **seo-audit-to-roadmap**, strategy category) or a general AI-citation audit (see **llm-retrievability-audit**) in isolation this skill's value is in the side-by-side comparison.
 
 ## Why the Two Diverge
 
-Traditional ranking and AI citation are increasingly decoupled: strong backlink profiles and historical ranking authority still matter for traditional search, but AI systems increasingly select sources based on extractability, entity clarity, and structural fit rather than rank alone. A page can rank #1 traditionally while being passed over for AI citation because its content isn't self-contained or answer-first — and conversely, a page ranking outside the top 10 can still earn AI citations if its passages are unusually well-structured for extraction.
+Traditional ranking and AI citation are increasingly decoupled: strong backlink profiles and historical ranking authority still matter for traditional search, but AI systems increasingly select sources based on extractability, entity clarity, and structural fit rather than rank alone. A page can rank #1 traditionally while being passed over for AI citation because its content isn't self-contained or answer-first and conversely, a page ranking outside the top 10 can still earn AI citations if its passages are unusually well-structured for extraction.
 
 ## Gap Categories
 
@@ -26,7 +26,7 @@ Traditional ranking and AI citation are increasingly decoupled: strong backlink 
 | Ranks well, rarely cited by AI | Content is topically correct but not structured for extraction (long narrative build-up, no self-contained passages) | **ai-citation-optimization** structural rewrite |
 | Ranks well, AI crawler access is the issue | Retrieval bot inadvertently blocked at robots.txt level | **ai-crawler-access-audit** |
 | Ranks well but page is stale | Hasn't been updated recently despite still ranking | **geo-crawl-freshness-check**, **content-refresh-audit** |
-| Cited by AI, ranks poorly traditionally | Strong structural/extractability signals compensating for weaker traditional authority — worth studying as a template for other pages | Reinforce the pattern elsewhere rather than "fixing" |
+| Cited by AI, ranks poorly traditionally | Strong structural/extractability signals compensating for weaker traditional authority worth studying as a template for other pages | Reinforce the pattern elsewhere rather than "fixing" |
 
 ## Workflow
 
