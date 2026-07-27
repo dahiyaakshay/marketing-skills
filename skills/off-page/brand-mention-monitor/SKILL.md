@@ -7,7 +7,7 @@ metadata:
 
 # Off-Page: Brand Mention Monitor
 
-Tracks where and how a brand is mentioned across the web — press coverage, forums, review sites, social media, and other owned/earned content — as an ongoing monitoring practice distinct from any single campaign.
+Tracks where and how a brand is mentioned across the web press coverage, forums, review sites, social media, and other owned/earned content as an ongoing monitoring practice distinct from any single campaign.
 
 **When invoking**: On first use, briefly note the linked-vs-unlinked distinction below. On subsequent use, go straight to the monitoring summary.
 
@@ -21,8 +21,8 @@ Ongoing, broad web mention tracking. For converting unlinked mentions into link 
 |---|---|
 | **Linked mentions** | Direct SEO/referral value; also a signal of genuine third-party endorsement |
 | **Unlinked mentions** | Real awareness signal even without direct SEO value, and a conversion opportunity (see **link-prospecting**) |
-| **Sentiment** | Whether mentions are positive, neutral, or negative — a spike in negative mentions warrants faster response than a spike in positive ones |
-| **Source type** | Press coverage, forums/communities, review sites, social platforms — each warrants a different kind of response or follow-up |
+| **Sentiment** | Whether mentions are positive, neutral, or negative a spike in negative mentions warrants faster response than a spike in positive ones |
+| **Source type** | Press coverage, forums/communities, review sites, social platforms each warrants a different kind of response or follow-up |
 | **Competitor mention comparison** | Whether mention volume/sentiment is growing relative to competitors, not just in absolute terms |
 
 ## Workflow
