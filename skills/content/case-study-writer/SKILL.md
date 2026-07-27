@@ -19,9 +19,9 @@ Full case study narrative. Not short-form testimonial quotes (see **testimonials
 
 | Section | Content |
 |---|---|
-| **Headline result** | The single most impressive quantified outcome, stated up front — readers should know the result before reading the story |
-| **Client/company context** | Brief — industry, size, relevant starting situation, enough to establish credibility and relevance to a similar prospective reader |
-| **The problem** | Specific, not generic — what exactly wasn't working and why it mattered to the business |
+| **Headline result** | The single most impressive quantified outcome, stated up front readers should know the result before reading the story |
+| **Client/company context** | Brief industry, size, relevant starting situation, enough to establish credibility and relevance to a similar prospective reader |
+| **The problem** | Specific, not generic what exactly wasn't working and why it mattered to the business |
 | **The solution** | What was actually done, specific enough to be credible without overselling the how |
 | **The result** | Quantified wherever possible; include the timeframe the result was achieved in |
 | **Direct quote** | From the client, ideally addressing the result or the experience of working together |
@@ -29,7 +29,7 @@ Full case study narrative. Not short-form testimonial quotes (see **testimonials
 ## Workflow
 
 1. Confirm the quantified headline result and get it into the opening, not the conclusion.
-2. Gather specific problem details — avoid generic framing that could apply to any client.
+2. Gather specific problem details avoid generic framing that could apply to any client.
 3. Describe the solution with enough specificity to be credible.
 4. State the result with numbers and timeframe.
 5. Include a direct client quote, ideally reinforcing the result.
