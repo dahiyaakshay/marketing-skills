@@ -7,7 +7,7 @@ metadata:
 
 # On-Page: Title Tag Optimizer
 
-Writes title tags that balance primary keyword placement, click-through appeal, and pixel-width truncation limits — the title tag is both a ranking signal and the first thing a searcher reads, and optimizing for only one of those goals at the expense of the other underperforms.
+Writes title tags that balance primary keyword placement, click-through appeal, and pixel-width truncation limits the title tag is both a ranking signal and the first thing a searcher reads, and optimizing for only one of those goals at the expense of the other underperforms.
 
 **When invoking**: On first use, briefly note the dual purpose below. On subsequent use, go straight to drafting.
 
@@ -19,14 +19,14 @@ Title tag copy specifically. For meta descriptions, see **meta-description-write
 
 | Element | Guidance |
 |---|---|
-| **Primary keyword placement** | Toward the front where natural — front-loaded keywords carry slightly more relevance weight, though forcing an awkward front-load at the expense of readability isn't worth it |
+| **Primary keyword placement** | Toward the front where natural front-loaded keywords carry slightly more relevance weight, though forcing an awkward front-load at the expense of readability isn't worth it |
 | **Length** | Roughly 50–60 characters is a safe range to avoid truncation in search results, though the actual limit is pixel-width-based, not character-count-based, so some longer titles with narrow characters still display fully |
 | **Brand name placement** | Typically at the end, separated by a pipe or dash, unless brand recognition itself is the primary driver of clicks for this specific business |
-| **Differentiation from H1** | The title tag and on-page H1 can be similar but don't need to be identical — the title tag can be optimized more for the SERP (click appeal) while the H1 is optimized more for on-page clarity |
+| **Differentiation from H1** | The title tag and on-page H1 can be similar but don't need to be identical the title tag can be optimized more for the SERP (click appeal) while the H1 is optimized more for on-page clarity |
 
 ## Click-Through Appeal
 
-A technically keyword-optimized title that reads as generic or robotic underperforms a title that also gives the searcher a reason to click over competing results — numbers, specificity, and a clear value proposition (e.g. "7 Ways to..." or "[Year] Guide" where genuinely current) tend to outperform generic phrasing, though clickbait that doesn't match the actual content backfires through high bounce rates.
+A technically keyword-optimized title that reads as generic or robotic underperforms a title that also gives the searcher a reason to click over competing results numbers, specificity, and a clear value proposition (e.g. "7 Ways to..." or "[Year] Guide" where genuinely current) tend to outperform generic phrasing, though clickbait that doesn't match the actual content backfires through high bounce rates.
 
 ## Workflow
 
