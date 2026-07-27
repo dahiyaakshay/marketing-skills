@@ -7,7 +7,7 @@ metadata:
 
 # Off-Page: Link Prospecting
 
-Identifies new link building opportunities broadly — resource pages, industry directories, expert roundups, and content-driven opportunities — beyond the narrower competitor-gap method.
+Identifies new link building opportunities broadly resource pages, industry directories, expert roundups, and content-driven opportunities beyond the narrower competitor-gap method.
 
 **When invoking**: On first use, briefly note the prospecting methods below. On subsequent use, go straight to prospecting.
 
@@ -19,14 +19,14 @@ Broad-based link opportunity identification. For the competitor-referenced-domai
 
 | Method | Search pattern | Best for |
 |---|---|---|
-| **Resource page prospecting** | Search for "[topic] resources" or "[topic] links" pages that curate lists of helpful links | Sites that already maintain and update curated link lists — a natural fit if the target site has genuinely useful resources |
-| **Unlinked brand mention discovery** | Search for the brand name mentioned online without an accompanying link | Low-friction opportunities — the site already chose to reference the brand, just didn't link it |
+| **Resource page prospecting** | Search for "[topic] resources" or "[topic] links" pages that curate lists of helpful links | Sites that already maintain and update curated link lists a natural fit if the target site has genuinely useful resources |
+| **Unlinked brand mention discovery** | Search for the brand name mentioned online without an accompanying link | Low-friction opportunities the site already chose to reference the brand, just didn't link it |
 | **"Best of" and roundup prospecting** | Search for existing "best [category] tools/sites/services" roundup articles | Category-relevant placement opportunities where the target might genuinely belong |
 | **Expert roundup participation** | Identify sites that regularly publish expert-contributed roundup content | A relationship-building opportunity that often leads to repeat placements over time |
 
 ## Quality Filter
 
-Apply the same relevance and legitimacy filter used in **backlink-audit** before pursuing any prospect — a large raw prospect list is only useful if the domains are actually worth acquiring a link from; chasing low-quality volume defeats the purpose.
+Apply the same relevance and legitimacy filter used in **backlink-audit** before pursuing any prospect a large raw prospect list is only useful if the domains are actually worth acquiring a link from; chasing low-quality volume defeats the purpose.
 
 ## Workflow
 
