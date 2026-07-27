@@ -34,7 +34,7 @@ A generic, templated response even a polite one reads as inauthentic to anyone r
 2. Draft a response that references specifics from the review rather than a generic template.
 3. For negative reviews, acknowledge the issue directly and offer a path to resolution, keeping the tone measured for the benefit of future readers.
 4. For clearly fake or policy-violating reviews, flag for platform removal rather than responding as if legitimate.
-5. Respond promptly — response timeliness itself is part of the engagement signal.
+5. Respond promptly response timeliness itself is part of the engagement signal.
 
 ## Related Skills
 
