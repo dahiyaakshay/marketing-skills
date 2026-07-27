@@ -17,21 +17,21 @@ Entity representation and disambiguation within content. Not the broader content
 
 ## Why Entity Clarity Matters for AI Citation
 
-AI systems increasingly select citation sources based on whether they can confidently identify a brand or topic as a distinct, well-defined entity — not primarily on backlink volume. If entity signals are weak or inconsistent (a brand name spelled differently across pages, no clear connection to related entities, no structured markup identifying it), an AI system is less likely to cite it confidently, regardless of how well the underlying content is written. This is described in current SEO research as a shift from "how many links point here" to "can the system confidently identify what this is."
+AI systems increasingly select citation sources based on whether they can confidently identify a brand or topic as a distinct, well-defined entity not primarily on backlink volume. If entity signals are weak or inconsistent (a brand name spelled differently across pages, no clear connection to related entities, no structured markup identifying it), an AI system is less likely to cite it confidently, regardless of how well the underlying content is written. This is described in current SEO research as a shift from "how many links point here" to "can the system confidently identify what this is."
 
 ## Optimization Levers
 
 | Lever | Implementation |
 |---|---|
-| **Consistent naming** | Use the exact same brand/entity name and spelling across all owned properties and structured data — inconsistency is one of the most common causes of weak entity recognition |
+| **Consistent naming** | Use the exact same brand/entity name and spelling across all owned properties and structured data inconsistency is one of the most common causes of weak entity recognition |
 | **Entity schema markup** | Organization, Person, and Product schema explicitly declaring the entity and its properties, rather than relying on AI to infer them from prose alone |
-| **Connected-entity mentions** | Reference related, verifiable entities (partners, founders, industry associations) in a way that lets an AI system cross-reference and corroborate identity — research associates a higher count of connected entities in the Knowledge Graph with stronger citation likelihood |
+| **Connected-entity mentions** | Reference related, verifiable entities (partners, founders, industry associations) in a way that lets an AI system cross-reference and corroborate identity research associates a higher count of connected entities in the Knowledge Graph with stronger citation likelihood |
 | **Wikidata/Wikipedia presence** | Where eligible, a Wikidata entry is one of the strongest external corroboration signals for entity identity, since many AI systems draw on it directly |
 | **Consistent NAP-equivalent data** | For non-local brands, this means consistent "about" info (founding date, HQ, leadership) repeated identically across owned and third-party profiles |
 
 ## Workflow
 
-1. Audit current naming consistency across the site and structured data — flag any variant spellings or inconsistent branding.
+1. Audit current naming consistency across the site and structured data flag any variant spellings or inconsistent branding.
 2. Confirm Organization/Person schema is present, complete, and matches the consistent naming.
 3. Identify and add references to genuinely connected, verifiable entities where natural (not forced name-dropping).
 4. Check for Wikidata/Wikipedia presence; if absent and the entity is notable enough to qualify, flag as a longer-term opportunity.
