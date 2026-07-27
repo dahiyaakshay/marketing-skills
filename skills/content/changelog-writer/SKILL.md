@@ -7,7 +7,7 @@ metadata:
 
 # Content: Changelog Writer
 
-Formats product update entries in a consistent, scannable structure — a changelog's value comes almost entirely from consistency and scanability across entries, not from any single entry's writing quality.
+Formats product update entries in a consistent, scannable structure a changelog's value comes almost entirely from consistency and scanability across entries, not from any single entry's writing quality.
 
 **When invoking**: On first use, confirm the existing changelog format if one exists, to stay consistent. On subsequent use, go straight to drafting the new entry.
 
@@ -20,14 +20,14 @@ Individual changelog/release-note entries. This is a narrow, format-specific ski
 | Element | Guidance |
 |---|---|
 | **Date/version** | Clearly labeled at the top of each entry |
-| **Category tags** | New, Improved, Fixed — categorize each change so readers can scan for what matters to them |
+| **Category tags** | New, Improved, Fixed categorize each change so readers can scan for what matters to them |
 | **One line per change** | Plain-language description of what changed and why it matters to the user, not internal technical framing |
 | **Visual/screenshot** | Included for significant UI changes, since a changelog entry describing a visual change is far less useful without showing it |
 | **Consistent tense/voice** | Past tense, active voice, applied consistently across every entry ("Added X" not "X has been added") |
 
 ## User-Facing, Not Internal Framing
 
-Write each entry from the user's perspective — what changed for them and why it matters — rather than from an internal engineering perspective (commit messages, ticket numbers, internal system names). "Fixed an issue where reports could show incorrect totals" reads better to a user than "Fixed race condition in report aggregation service."
+Write each entry from the user's perspective what changed for them and why it matters rather than from an internal engineering perspective (commit messages, ticket numbers, internal system names). "Fixed an issue where reports could show incorrect totals" reads better to a user than "Fixed race condition in report aggregation service."
 
 ## Workflow
 
