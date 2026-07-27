@@ -7,7 +7,7 @@ metadata:
 
 # Off-Page: Competitor Backlink Gap
 
-Identifies linking domains that point to one or more competitors but not to the target site — surfacing concrete, already-proven-relevant link acquisition opportunities rather than starting link building from a blank list.
+Identifies linking domains that point to one or more competitors but not to the target site surfacing concrete, already-proven-relevant link acquisition opportunities rather than starting link building from a blank list.
 
 **When invoking**: On first use, briefly note why competitor-referenced domains are a strong starting point. On subsequent use, go straight to the analysis.
 
@@ -17,15 +17,15 @@ Comparative gap identification. For auditing the site's own backlink health inde
 
 ## Why This Method Works
 
-A domain already linking to multiple competitors in the same space has demonstrated willingness to link to businesses in this category — this is a stronger signal of realistic opportunity than a cold, unproven prospect list, since the domain's editorial standards and topical focus are already known to accommodate this kind of content/business.
+A domain already linking to multiple competitors in the same space has demonstrated willingness to link to businesses in this category this is a stronger signal of realistic opportunity than a cold, unproven prospect list, since the domain's editorial standards and topical focus are already known to accommodate this kind of content/business.
 
 ## Method
 
 | Step | What it produces |
 |---|---|
 | Pull backlink profiles for 3–5 direct competitors | The comparison dataset |
-| Identify domains linking to 2+ competitors but not the target site | High-confidence gap opportunities — multiple competitors being linked to by the same domain suggests a durable, repeatable opportunity, not a one-off |
-| Filter by relevance and legitimacy | Not every gap domain is worth pursuing — apply the same quality filter used in **backlink-audit** |
+| Identify domains linking to 2+ competitors but not the target site | High-confidence gap opportunities multiple competitors being linked to by the same domain suggests a durable, repeatable opportunity, not a one-off |
+| Filter by relevance and legitimacy | Not every gap domain is worth pursuing apply the same quality filter used in **backlink-audit** |
 | Categorize by acquisition method | Guest post opportunity, directory/resource listing, mention-worthy data/content, broken link opportunity |
 
 ## Workflow
