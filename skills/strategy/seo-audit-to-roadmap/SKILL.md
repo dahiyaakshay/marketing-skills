@@ -7,7 +7,7 @@ metadata:
 
 # Strategy: SEO Audit to Roadmap
 
-Converts a completed audit's raw findings into a prioritized, sequenced action roadmap — an audit alone is a list of problems; a roadmap is a plan for which problems to fix first and why.
+Converts a completed audit's raw findings into a prioritized, sequenced action roadmap an audit alone is a list of problems; a roadmap is a plan for which problems to fix first and why.
 
 **When invoking**: On first use, briefly explain the prioritization framework below. On subsequent use, go straight to building the roadmap.
 
