@@ -7,7 +7,7 @@ metadata:
 
 # Content: Pricing Page Optimizer
 
-Structures pricing-tier copy to reduce decision friction and clearly guide the reader toward the tier that fits them — a pricing page's job is to make the choice easy, not just to disclose numbers.
+Structures pricing-tier copy to reduce decision friction and clearly guide the reader toward the tier that fits them a pricing page's job is to make the choice easy, not just to disclose numbers.
 
 **When invoking**: On first use, confirm the tier structure and any recommended/highlighted tier. On subsequent use, go straight to drafting.
 
@@ -27,7 +27,7 @@ Pricing-page-specific copy and structure. Not general product page content (see 
 
 ## Reducing Decision Friction
 
-Too many tiers, or tiers with unclear differentiation, increase cognitive load and can suppress conversion — if tier boundaries aren't obviously meaningful to the buyer, consider consolidating. Highlighting one tier as the recommended default gives undecided buyers a low-effort default choice rather than forcing them to evaluate every option from scratch.
+Too many tiers, or tiers with unclear differentiation, increase cognitive load and can suppress conversion if tier boundaries aren't obviously meaningful to the buyer, consider consolidating. Highlighting one tier as the recommended default gives undecided buyers a low-effort default choice rather than forcing them to evaluate every option from scratch.
 
 ## Workflow
 
