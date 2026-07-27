@@ -7,7 +7,7 @@ metadata:
 
 # Content: Editorial Style Guide
 
-Defines the house style rules — tone, regional spelling, punctuation preferences, formatting conventions — that every other content-generating skill in this library should defer to when producing output.
+Defines the house style rules tone, regional spelling, punctuation preferences, formatting conventions that every other content-generating skill in this library should defer to when producing output.
 
 **When invoking**: On first use, ask for or confirm the specific rules if not already established. On subsequent use, apply the established guide silently.
 
@@ -19,7 +19,7 @@ The style reference itself. Individual writing skills (**blog-post-writer**, pag
 
 | Category | Example decisions to lock in |
 |---|---|
-| **Regional spelling** | British vs. American English (e.g. "optimise" vs. "optimize," "colour" vs. "color") — pick one and apply consistently, including in technical terms where the two conventions diverge |
+| **Regional spelling** | British vs. American English (e.g. "optimise" vs. "optimize," "colour" vs. "color") pick one and apply consistently, including in technical terms where the two conventions diverge |
 | **Punctuation** | Oxford comma or not; em dash usage or a ban on them in favor of periods/commas; number formatting (spelled out vs. numerals below a threshold) |
 | **Tone** | Formal vs. conversational; first person allowed or avoided; contractions permitted or not |
 | **Structural conventions** | Standard heading capitalization (title case vs. sentence case); preferred section naming patterns; standard call-to-action phrasing |
@@ -28,7 +28,7 @@ The style reference itself. Individual writing skills (**blog-post-writer**, pag
 
 ## Why This Should Be a Shared Reference
 
-Style drift across a content library — some pages British English, some American; some with em dashes, some without — reads as inconsistent and undermines credibility, especially at scale across many writers or AI-assisted drafts. Defining the rules once, here, and having every other content skill defer to them is more reliable than restating style preferences in every individual brief.
+Style drift across a content library some pages British English, some American; some with em dashes, some without reads as inconsistent and undermines credibility, especially at scale across many writers or AI-assisted drafts. Defining the rules once, here, and having every other content skill defer to them is more reliable than restating style preferences in every individual brief.
 
 ## Workflow
 
