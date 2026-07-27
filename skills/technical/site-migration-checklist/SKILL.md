@@ -7,13 +7,13 @@ metadata:
 
 # Technical: Site Migration Checklist
 
-Sequences a site migration (domain change, platform change, redesign, protocol change) to preserve existing SEO value — migrations are one of the highest-risk events in technical SEO because so many things can go wrong simultaneously, and problems often aren't visible until traffic has already dropped.
+Sequences a site migration (domain change, platform change, redesign, protocol change) to preserve existing SEO value migrations are one of the highest-risk events in technical SEO because so many things can go wrong simultaneously, and problems often aren't visible until traffic has already dropped.
 
 **When invoking**: On first use, briefly note the pre/during/post structure below. On subsequent use, go straight to the checklist.
 
 ## Scope
 
-Migration-specific sequencing and risk mitigation, drawing on the other technical skills at each phase. Not a substitute for those skills' depth — this is the coordination layer.
+Migration-specific sequencing and risk mitigation, drawing on the other technical skills at each phase. Not a substitute for those skills' depth this is the coordination layer.
 
 ## Phase 1: Pre-Migration
 
@@ -29,7 +29,7 @@ Migration-specific sequencing and risk mitigation, drawing on the other technica
 | Task | Why |
 |---|---|
 | Implement 301 redirects for every old URL to its mapped new URL, live at the same time as the new site goes live | A gap between old-site-down and redirects-live creates a window of 404s that both users and crawlers encounter |
-| Submit the new XML sitemap immediately | **xml-sitemap-builder** — accelerates discovery of the new URL structure |
+| Submit the new XML sitemap immediately | **xml-sitemap-builder** accelerates discovery of the new URL structure |
 | Update robots.txt for the new site/domain | Confirm nothing is inadvertently blocked on the new platform by default settings |
 | Update all internal links to point to new URLs directly, not through the redirect | Redirects should be a safety net for external links and old bookmarks, not the primary internal linking path |
 
@@ -38,13 +38,13 @@ Migration-specific sequencing and risk mitigation, drawing on the other technica
 | Task | Timeframe |
 |---|---|
 | Monitor Search Console for crawl errors and indexing status | Daily for the first 1–2 weeks |
-| Check for redirect chains introduced by the migration | **redirect-chain-audit** — migrations are the single most common source of new chains |
+| Check for redirect chains introduced by the migration | **redirect-chain-audit** migrations are the single most common source of new chains |
 | Compare traffic and ranking against the pre-migration baseline | Ongoing for at least 4–8 weeks, since search engines take time to fully re-crawl and re-evaluate a changed site |
 | Confirm structured data and Core Web Vitals on the new platform | **structured-data-validator**, **core-web-vitals-audit** |
 
 ## The Most Common Migration Failure
 
-The most damaging and common failure is an incomplete redirect map — URLs that existed on the old site with no mapped destination on the new site, resulting in 404s for pages that previously ranked and drove traffic. Treat 100% redirect coverage of all previously-indexed URLs as non-negotiable, not just the URLs someone remembered to map.
+The most damaging and common failure is an incomplete redirect map URLs that existed on the old site with no mapped destination on the new site, resulting in 404s for pages that previously ranked and drove traffic. Treat 100% redirect coverage of all previously-indexed URLs as non-negotiable, not just the URLs someone remembered to map.
 
 ## Workflow
 
