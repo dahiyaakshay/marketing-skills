@@ -7,7 +7,7 @@ metadata:
 
 # GEO: Crawl Freshness Check
 
-Assesses whether content is being recrawled and re-evaluated frequently enough by AI systems to stay citation-eligible — freshness functions as an explicit citation factor for AI engines in a way it doesn't as strongly for traditional search.
+Assesses whether content is being recrawled and re-evaluated frequently enough by AI systems to stay citation-eligible freshness functions as an explicit citation factor for AI engines in a way it doesn't as strongly for traditional search.
 
 **When invoking**: On first use, briefly explain why freshness matters more for AI citation than for traditional ranking. On subsequent use, go straight to the check.
 
@@ -17,15 +17,15 @@ AI-specific freshness and recrawl assessment. Not general content decay diagnosi
 
 ## Why Freshness Is a Stronger AI-Citation Factor
 
-Multiple studies report that recently updated content is substantially more likely to be cited by AI answer engines than older content, even when the older content still ranks well in traditional search — one commonly cited figure suggests content under roughly three months old is several times more likely to be cited than older equivalents. Content left untouched for six or more months has been observed losing citation eligibility even when its traditional search performance hasn't visibly declined — meaning a page can look "fine" by traditional SEO metrics while quietly falling out of AI citation contention.
+Multiple studies report that recently updated content is substantially more likely to be cited by AI answer engines than older content, even when the older content still ranks well in traditional search one commonly cited figure suggests content under roughly three months old is several times more likely to be cited than older equivalents. Content left untouched for six or more months has been observed losing citation eligibility even when its traditional search performance hasn't visibly declined meaning a page can look "fine" by traditional SEO metrics while quietly falling out of AI citation contention.
 
 ## Freshness Signals to Check
 
 | Signal | What to verify |
 |---|---|
-| **Visible last-updated date** | Present and accurate — a page silently updated without a visible date change gets less credit than one with a clear, current timestamp |
+| **Visible last-updated date** | Present and accurate a page silently updated without a visible date change gets less credit than one with a clear, current timestamp |
 | **Actual content changes, not date-only edits** | Cosmetic date changes without substantive updates are a weaker signal than genuine content refreshes (updated data, expanded sections) |
-| **Recrawl cadence** | Server logs (where available) showing how often AI crawlers are actually revisiting the page — infrequent revisits mean even a freshly updated page may not be re-evaluated promptly |
+| **Recrawl cadence** | Server logs (where available) showing how often AI crawlers are actually revisiting the page infrequent revisits mean even a freshly updated page may not be re-evaluated promptly |
 | **Comparison against competitor freshness** | If competing pages in the same topic are updated more recently, that's a direct competitive freshness gap, not just an internal maintenance question |
 
 ## Workflow
