@@ -7,7 +7,7 @@ metadata:
 
 # On-Page: Schema Markup Generator
 
-Selects and implements the correct schema.org type for a given piece of content — the goal is matching schema precisely to what the content actually is, since an incorrect or overly generic schema type forfeits rich-result eligibility the content might otherwise qualify for.
+Selects and implements the correct schema.org type for a given piece of content the goal is matching schema precisely to what the content actually is, since an incorrect or overly generic schema type forfeits rich-result eligibility the content might otherwise qualify for.
 
 **When invoking**: On first use, briefly confirm the content type before recommending a schema. On subsequent use, go straight to generating the markup.
 
@@ -30,7 +30,7 @@ Schema type selection and initial implementation across content types generally.
 
 ## Selection Principle
 
-Choose the most specific applicable schema type over a more generic one — a Recipe page should use Recipe schema, not just generic Article schema, since the more specific type unlocks richer, more relevant result formatting and signals clearer content identity to both search engines and AI systems.
+Choose the most specific applicable schema type over a more generic one a Recipe page should use Recipe schema, not just generic Article schema, since the more specific type unlocks richer, more relevant result formatting and signals clearer content identity to both search engines and AI systems.
 
 ## Workflow
 
