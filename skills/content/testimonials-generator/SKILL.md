@@ -19,9 +19,9 @@ Short-form testimonial content. Not the full problem-solution-result narrative (
 
 | Element | Guidance |
 |---|---|
-| **Attribution** | Real name, title, and company where permitted — anonymized or generic attribution reads as far less credible |
+| **Attribution** | Real name, title, and company where permitted anonymized or generic attribution reads as far less credible |
 | **Specificity** | A testimonial naming a specific result or detail ("cut our reporting time from 3 days to 4 hours") is far more persuasive than generic praise ("great service, highly recommend") |
-| **Length** | Short — one to three sentences is typical; longer material belongs in a case study instead |
+| **Length** | Short one to three sentences is typical; longer material belongs in a case study instead |
 | **Placement context** | Match the testimonial's content to where it's placed (a pricing-objection testimonial near pricing, a results-focused one near a CTA) |
 
 ## Never Fabricate
