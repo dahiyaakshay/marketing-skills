@@ -7,7 +7,7 @@ metadata:
 
 # Local: Local Landing Page Builder
 
-Writes a location-specific landing page that's genuinely differentiated for its city/region — not a templated page with only the city name swapped, which both underperforms for ranking and reads poorly to local visitors.
+Writes a location-specific landing page that's genuinely differentiated for its city/region not a templated page with only the city name swapped, which both underperforms for ranking and reads poorly to local visitors.
 
 **When invoking**: On first use, briefly note the differentiation requirement below. On subsequent use, go straight to drafting.
 
@@ -17,7 +17,7 @@ Individual location page copy and structure. For the architecture governing many
 
 ## Why Templated "Swap the City Name" Pages Underperform
 
-A location page that's identical to every other location page except for the city name is easily identified as thin, duplicate-pattern content — both by search engines evaluating quality across a domain and by local visitors who can tell the content wasn't actually written for their area. Genuine local relevance (neighborhood references, region-specific services or considerations, local testimonials, actual local team/location details) is what differentiates a location page that ranks and converts from one that doesn't.
+A location page that's identical to every other location page except for the city name is easily identified as thin, duplicate-pattern content both by search engines evaluating quality across a domain and by local visitors who can tell the content wasn't actually written for their area. Genuine local relevance (neighborhood references, region-specific services or considerations, local testimonials, actual local team/location details) is what differentiates a location page that ranks and converts from one that doesn't.
 
 ## Structural Elements
 
