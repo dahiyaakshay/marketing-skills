@@ -7,7 +7,7 @@ metadata:
 
 # Content: Testimonials Generator
 
-Structures raw customer feedback (interview notes, reviews, survey responses) into short-form testimonial content — distinct from the full narrative arc of a case study.
+Structures raw customer feedback (interview notes, reviews, survey responses) into short-form testimonial content distinct from the full narrative arc of a case study.
 
 **When invoking**: On first use, confirm the source material is genuine customer feedback, not fabricated quotes. On subsequent use, go straight to structuring.
 
@@ -26,12 +26,12 @@ Short-form testimonial content. Not the full problem-solution-result narrative (
 
 ## Never Fabricate
 
-Testimonial content must come from real customer feedback — inventing or substantially rewriting a customer's words beyond light editing for clarity and length is a credibility and, in many jurisdictions, legal risk. Light editing (removing filler words, tightening for length) is standard; changing the substance of what was said is not.
+Testimonial content must come from real customer feedback inventing or substantially rewriting a customer's words beyond light editing for clarity and length is a credibility and, in many jurisdictions, legal risk. Light editing (removing filler words, tightening for length) is standard; changing the substance of what was said is not.
 
 ## Workflow
 
 1. Confirm the source material is genuine and gather permission/attribution details.
-2. Identify the most specific, concrete claims within the raw feedback — prioritize these over generic praise.
+2. Identify the most specific, concrete claims within the raw feedback prioritize these over generic praise.
 3. Lightly edit for length and clarity without altering substance.
 4. Match each testimonial's content to its intended placement on the site.
 5. Route any testimonial with enough depth and detail to **case-study-writer** for a fuller treatment.
