@@ -7,7 +7,7 @@ metadata:
 
 # Content: Blog Post Writer
 
-Drafts a blog post from a brief, applying house style and structural best practice — assumes the strategic groundwork (keyword, audience, outline) is already done via **content-brief-generator**.
+Drafts a blog post from a brief, applying house style and structural best practice assumes the strategic groundwork (keyword, audience, outline) is already done via **content-brief-generator**.
 
 **When invoking**: On first use, confirm a brief exists or gather the minimum needed (topic, audience, primary keyword) before drafting. On subsequent use, go straight to drafting.
 
