@@ -7,7 +7,7 @@ metadata:
 
 # Content: Content Refresh Audit
 
-Identifies pages in content decay — gradual, not sudden, traffic loss — and prioritizes which ones are worth refreshing based on recovery potential, not just how much traffic they've lost.
+Identifies pages in content decay gradual, not sudden, traffic loss and prioritizes which ones are worth refreshing based on recovery potential, not just how much traffic they've lost.
 
 **When invoking**: On first use, briefly explain the decay-vs-sudden-drop distinction below. On subsequent use, go straight to the audit.
 
@@ -17,7 +17,7 @@ Detecting and prioritizing refresh candidates. Not the prune-vs-keep decision fo
 
 ## Decay vs. Sudden Drop
 
-A sudden, sharp traffic drop (roughly 50%+ overnight or within days) usually signals a technical problem, algorithm penalty, or tracking break — that's a **traffic-anomaly-detector** investigation, not a refresh candidate. Content decay, by contrast, is a gradual decline — a page slipping a position or two per month, losing a few clicks per week — typically becoming visible over a 3–6+ month window. Pages often peak 6–18 months after publication and then begin this gradual slide as competitors improve, search intent shifts, and facts go stale.
+A sudden, sharp traffic drop (roughly 50%+ overnight or within days) usually signals a technical problem, algorithm penalty, or tracking break that's a **traffic-anomaly-detector** investigation, not a refresh candidate. Content decay, by contrast, is a gradual decline a page slipping a position or two per month, losing a few clicks per week typically becoming visible over a 3–6+ month window. Pages often peak 6–18 months after publication and then begin this gradual slide as competitors improve, search intent shifts, and facts go stale.
 
 ## Detection Signals
 
@@ -30,7 +30,7 @@ A sudden, sharp traffic drop (roughly 50%+ overnight or within days) usually sig
 
 ## Prioritization
 
-Prioritize by the intersection of three factors: historical traffic peak, current business relevance, and realistic recovery ceiling. Pages with a strong existing backlink profile and a content gap (rather than a link gap) tend to recover fastest — refreshing content is often faster and cheaper than publishing new pages, since the page builds on existing authority rather than starting from zero. Not every refresh candidate deserves the effort: some proportion of proposed candidates, after closer review, belong in the prune or consolidate column instead (see **content-pruning-audit**) because they have minimal traffic and no backlinks to build on.
+Prioritize by the intersection of three factors: historical traffic peak, current business relevance, and realistic recovery ceiling. Pages with a strong existing backlink profile and a content gap (rather than a link gap) tend to recover fastest refreshing content is often faster and cheaper than publishing new pages, since the page builds on existing authority rather than starting from zero. Not every refresh candidate deserves the effort: some proportion of proposed candidates, after closer review, belong in the prune or consolidate column instead (see **content-pruning-audit**) because they have minimal traffic and no backlinks to build on.
 
 ## What a Real Refresh Includes
 
@@ -39,7 +39,7 @@ Cosmetic date changes alone don't work. A genuine refresh: updates statistics an
 ## Workflow
 
 1. Pull organic performance trends (clicks, impressions, position, CTR) over the trailing 12 months for the site's content library.
-2. Flag pages showing the gradual-decline pattern (not sudden drops — route those to **traffic-anomaly-detector**).
+2. Flag pages showing the gradual-decline pattern (not sudden drops route those to **traffic-anomaly-detector**).
 3. Score each flagged page on backlink strength, current business relevance, and gap type (content gap vs. link gap vs. technical gap).
 4. Prioritize the intersection of highest recovery ceiling and highest business relevance first.
 5. For each prioritized page, identify what changed: check current search intent, compare structure/depth against current top-3 competitors, and list specific outdated statistics or examples.
