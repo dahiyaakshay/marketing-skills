@@ -19,15 +19,15 @@ About/company/founder story page copy. Not testimonial-specific content (see **t
 
 | Element | Guidance |
 |---|---|
-| **Origin/mission statement** | Brief — why the company or individual exists, told concretely rather than in abstract mission-statement language |
+| **Origin/mission statement** | Brief why the company or individual exists, told concretely rather than in abstract mission-statement language |
 | **What we do** | A plain-language explanation of the actual product/service, since About pages are often a reader's first real orientation to the business |
-| **Credibility signals** | Relevant experience, credentials, or track record — specific rather than vague ("built X for Y years" over "passionate about excellence") |
-| **Values/approach** | What makes the way this business operates distinctive, if genuinely distinctive — skip generic values statements that could describe any company |
+| **Credibility signals** | Relevant experience, credentials, or track record specific rather than vague ("built X for Y years" over "passionate about excellence") |
+| **Values/approach** | What makes the way this business operates distinctive, if genuinely distinctive skip generic values statements that could describe any company |
 | **Call to action** | A next step appropriate to the primary audience (contact, view work, subscribe) |
 
 ## Avoiding Generic Framing
 
-The most common About page failure is generic language that could apply to virtually any company — "passionate about delivering excellence," "customer-first approach." Replace generic claims with specific, checkable facts wherever possible: a specific number of years, a specific past project, a specific credential.
+The most common About page failure is generic language that could apply to virtually any company "passionate about delivering excellence," "customer-first approach." Replace generic claims with specific, checkable facts wherever possible: a specific number of years, a specific past project, a specific credential.
 
 ## Workflow
 
