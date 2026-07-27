@@ -7,7 +7,7 @@ metadata:
 
 # GEO: Perplexity Citation Audit
 
-Audits citation likelihood specifically on Perplexity, which runs its own independently-built retrieval index rather than depending solely on a partner search engine — with a documented history of crawling behavior that doesn't always cleanly respect robots.txt.
+Audits citation likelihood specifically on Perplexity, which runs its own independently-built retrieval index rather than depending solely on a partner search engine with a documented history of crawling behavior that doesn't always cleanly respect robots.txt.
 
 **When invoking**: On first use, note the robots.txt reliability caveat below. On subsequent use, go straight to the audit.
 
@@ -17,13 +17,13 @@ Perplexity-specific citation tactics. For general crawler access rules, see **ai
 
 ## The robots.txt Reliability Caveat
 
-Perplexity has been reported in some cases to crawl content in ways that don't fully respect published robots.txt directives, unlike the more consistently compliant behavior generally reported for OpenAI's and Anthropic's crawlers. This means robots.txt configuration alone is not a fully reliable lever, in either direction — a site trying to be citable can't assume allowing PerplexityBot guarantees crawling, and a site trying to block Perplexity can't assume disallowing it guarantees exclusion. Server-level blocking (IP/user-agent filtering at the server or WAF layer) is the more reliable enforcement mechanism if exclusion is the actual goal.
+Perplexity has been reported in some cases to crawl content in ways that don't fully respect published robots.txt directives, unlike the more consistently compliant behavior generally reported for OpenAI's and Anthropic's crawlers. This means robots.txt configuration alone is not a fully reliable lever, in either direction a site trying to be citable can't assume allowing PerplexityBot guarantees crawling, and a site trying to block Perplexity can't assume disallowing it guarantees exclusion. Server-level blocking (IP/user-agent filtering at the server or WAF layer) is the more reliable enforcement mechanism if exclusion is the actual goal.
 
 ## Perplexity-Specific Considerations
 
 | Consideration | Implication |
 |---|---|
-| **Independently-built index** | Perplexity's citation selection isn't a pure reflection of Google or Bing rankings — a site can perform differently here than on traditional search or other AI platforms |
+| **Independently-built index** | Perplexity's citation selection isn't a pure reflection of Google or Bing rankings a site can perform differently here than on traditional search or other AI platforms |
 | **Freshness weighting** | Citation-tracking research associates content freshness and semantic alignment with Perplexity's source selection specifically, similar to the pattern seen across other AI answer engines |
 | **Answer-first structure still applies** | The general self-contained, answer-first structural patterns from **ai-citation-optimization** remain relevant here as elsewhere |
 
