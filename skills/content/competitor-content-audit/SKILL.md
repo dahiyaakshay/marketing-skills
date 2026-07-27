@@ -7,7 +7,7 @@ metadata:
 
 # Content: Competitor Content Audit
 
-Tracks competitor publishing patterns over time — cadence, format shifts, new topic areas — as a standing practice, distinct from a one-off gap check on a single topic.
+Tracks competitor publishing patterns over time cadence, format shifts, new topic areas as a standing practice, distinct from a one-off gap check on a single topic.
 
 **When invoking**: On first use, note the recurring nature of this audit vs. a single-topic gap check. On subsequent use, go straight to the findings.
 
@@ -20,17 +20,17 @@ Ongoing, broad competitor monitoring. Not a single-topic keyword gap check (see 
 | Dimension | Signal |
 |---|---|
 | **Publishing cadence** | Is a competitor accelerating or slowing output? A sudden increase often precedes a push into a new topic area or market |
-| **Format shifts** | Moving from blog posts to interactive tools, video, or long-form guides — signals where they're investing |
-| **New topic areas** | Content appearing outside their previous coverage — early signal of a strategic pivot or new product line |
+| **Format shifts** | Moving from blog posts to interactive tools, video, or long-form guides signals where they're investing |
+| **New topic areas** | Content appearing outside their previous coverage early signal of a strategic pivot or new product line |
 | **Structural changes** | Adoption of pillar/cluster architecture, FAQ schema, or other structural patterns worth noting |
-| **Content that's been refreshed** | Republished dates or updated stats on old competitor content — signals which of their pages they consider worth defending |
+| **Content that's been refreshed** | Republished dates or updated stats on old competitor content signals which of their pages they consider worth defending |
 
 ## Workflow
 
 1. Identify the core competitor set (the sites recurring in top rankings for the site's priority keywords).
 2. Establish a monitoring cadence (monthly or quarterly is typical) rather than a one-time snapshot.
 3. Log new publications, format changes, and topic shifts per competitor per period.
-4. Flag any competitor content that directly threatens a priority keyword cluster — route to **content-gap-analysis** for a detailed response.
+4. Flag any competitor content that directly threatens a priority keyword cluster route to **content-gap-analysis** for a detailed response.
 5. Summarize strategic shifts (not just individual articles) for planning purposes.
 
 ## Related Skills
