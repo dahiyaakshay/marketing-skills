@@ -21,7 +21,7 @@ Single product page copy and structure. Not category/collection pages (see **cat
 |---|---|
 | **Title** | Product name + the 1–2 attributes buyers actually search on (size, material, use case) |
 | **Description** | Lead with the primary benefit/use case, not a spec dump; specs belong in a separate structured section |
-| **Structured specs** | Table or list format — scannable and machine-parseable, both for search engines and AI shopping assistants |
+| **Structured specs** | Table or list format scannable and machine-parseable, both for search engines and AI shopping assistants |
 | **Images/alt text** | Descriptive alt text naming the product and key visible attribute, not just the filename |
 | **Reviews/social proof** | Visible rating and review count near the top, full reviews further down |
 | **Structured data (schema)** | Product schema with price, availability, and rating so the page is eligible for rich results |
