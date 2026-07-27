@@ -7,7 +7,7 @@ metadata:
 
 # Technical: AI Crawler Access Audit
 
-Audits and configures robots.txt so a site is correctly positioned between two competing goals: keeping proprietary content out of AI model training data, and staying eligible for citation in AI-generated answers (ChatGPT, Claude, Perplexity, Google AI Overviews). These are not the same decision — treating "AI crawler" as one category is the most common mistake in this space.
+Audits and configures robots.txt so a site is correctly positioned between two competing goals: keeping proprietary content out of AI model training data, and staying eligible for citation in AI-generated answers (ChatGPT, Claude, Perplexity, Google AI Overviews). These are not the same decision treating "AI crawler" as one category is the most common mistake in this space.
 
 **When invoking**: On first use, briefly explain the training-vs-retrieval distinction below before producing the audit or robots.txt block. On subsequent use, go straight to output.
 
@@ -21,21 +21,21 @@ Every major AI lab runs multiple, independently-governed bots. Blocking the wron
 
 | Category | Purpose | Respects robots.txt? | Effect of blocking |
 |---|---|---|---|
-| **Training crawlers** | Bulk crawl to build foundation-model training sets | Yes (OpenAI, Anthropic, Google) | Content excluded from future model training only — no effect on real-time citation |
+| **Training crawlers** | Bulk crawl to build foundation-model training sets | Yes (OpenAI, Anthropic, Google) | Content excluded from future model training only no effect on real-time citation |
 | **Search/retrieval crawlers** | Index content for citation in live AI answers | Yes (documented, though enforcement varies) | Content becomes ineligible for citation in that platform's answers |
-| **On-demand/user-triggered fetchers** | Fetch a specific URL when a user asks the assistant to visit it | Inconsistently — some labs note these may not follow robots.txt the same way as automated crawlers | Blocking may not reliably stop a single-page fetch triggered by a user |
+| **On-demand/user-triggered fetchers** | Fetch a specific URL when a user asks the assistant to visit it | Inconsistently some labs note these may not follow robots.txt the same way as automated crawlers | Blocking may not reliably stop a single-page fetch triggered by a user |
 
 ## Bot-by-Bot Reference (2026)
 
 | Bot | Operator | Category | Typical posture |
 |---|---|---|---|
 | GPTBot | OpenAI | Training | Block if avoiding model training; does not affect ChatGPT Search |
-| OAI-SearchBot | OpenAI | Retrieval | Allow — blocking removes the site from ChatGPT Search citations |
+| OAI-SearchBot | OpenAI | Retrieval | Allow blocking removes the site from ChatGPT Search citations |
 | ChatGPT-User | OpenAI | On-demand | Allow; may not fully respect standard robots.txt blocking |
 | ClaudeBot | Anthropic | Training | Block if avoiding model training |
-| Claude-SearchBot | Anthropic | Retrieval | Allow — powers Claude's web search citations |
+| Claude-SearchBot | Anthropic | Retrieval | Allow powers Claude's web search citations |
 | Claude-User | Anthropic | On-demand | Allow |
-| PerplexityBot | Perplexity | Retrieval (self-built index) | Allow — Perplexity has been reported running non-compliant stealth crawling in some cases, so robots.txt alone is not a guaranteed block |
+| PerplexityBot | Perplexity | Retrieval (self-built index) | Allow Perplexity has been reported running non-compliant stealth crawling in some cases, so robots.txt alone is not a guaranteed block |
 | Google-Extended | Gemini/AI Overviews | Training | Block to opt out of Gemini training without affecting standard Google Search indexing |
 | Bytespider | ByteDance | Training | Commonly blocked; documented history of non-compliance |
 | CCBot | Common Crawl | Training (feeds many downstream models) | Commonly blocked if avoiding indirect training exposure |
@@ -98,17 +98,17 @@ Adjust per path if only part of the site should be citable (e.g. allow `/blog/` 
 
 ## Audit Workflow
 
-1. **Pull current robots.txt** and list every AI-related user-agent rule already present (or absent — absence means the default `User-agent: *` rule applies to AI bots too).
-2. **Classify each bot** referenced against the table above; flag any training bot left open unintentionally, and any retrieval bot blocked unintentionally (this is the single most common misconfiguration — sites blanket-block "GPTBot" thinking it covers ChatGPT Search, when OAI-SearchBot is the separate bot that actually powers citations).
+1. **Pull current robots.txt** and list every AI-related user-agent rule already present (or absent absence means the default `User-agent: *` rule applies to AI bots too).
+2. **Classify each bot** referenced against the table above; flag any training bot left open unintentionally, and any retrieval bot blocked unintentionally (this is the single most common misconfiguration sites blanket-block "GPTBot" thinking it covers ChatGPT Search, when OAI-SearchBot is the separate bot that actually powers citations).
 3. **Cross-check server logs** for actual crawler traffic and bandwidth to confirm bots are respecting the published rules.
 4. **Recommend a posture** (open/selective/closed) based on the two-question framework above.
 5. **Output a copy-paste robots.txt block** plus a one-line rationale per bot.
-6. **Flag non-compliant bots** (Bytespider, some Perplexity stealth crawling reports) — note that server-level or WAF blocking is the only reliable defense, since robots.txt is advisory only.
+6. **Flag non-compliant bots** (Bytespider, some Perplexity stealth crawling reports) note that server-level or WAF blocking is the only reliable defense, since robots.txt is advisory only.
 
 ## Related Skills
 
 - **robots-txt**: General robots.txt syntax and traditional search engine rules
 - **generative-engine-optimization**: Overall GEO/AEO strategy; this skill is the access-control prerequisite for citation
-- **rendering-strategies**: AI crawlers generally do not execute JavaScript — content must be present in initial HTML regardless of robots.txt configuration
+- **rendering-strategies**: AI crawlers generally do not execute JavaScript content must be present in initial HTML regardless of robots.txt configuration
 - **llms-txt-generator**: Complementary positive-signal file alongside robots.txt
 - **site-crawlability**: Broader crawl-budget and indexability audit
