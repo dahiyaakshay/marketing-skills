@@ -7,13 +7,13 @@ metadata:
 
 # Technical: Crawl Budget Optimizer
 
-Directs a search engine's limited crawl attention toward the pages that matter most — crawl budget is finite, especially for large sites, and pages competing for that attention with low-value URLs can go unindexed or infrequently recrawled as a result.
+Directs a search engine's limited crawl attention toward the pages that matter most crawl budget is finite, especially for large sites, and pages competing for that attention with low-value URLs can go unindexed or infrequently recrawled as a result.
 
 **When invoking**: On first use, briefly note that this is primarily a large-site concern. On subsequent use, go straight to the optimization plan.
 
 ## Scope
 
-Crawl efficiency and prioritization, primarily relevant for large sites (typically tens of thousands of pages or more, where crawl budget is a genuine constraint). For small sites, crawl budget is rarely the bottleneck — focus there on **technical-seo-audit** basics instead. For blocking low-value paths, see **robots-txt-generator**; for removing genuinely low-value content, see **content-pruning-audit** (content category).
+Crawl efficiency and prioritization, primarily relevant for large sites (typically tens of thousands of pages or more, where crawl budget is a genuine constraint). For small sites, crawl budget is rarely the bottleneck focus there on **technical-seo-audit** basics instead. For blocking low-value paths, see **robots-txt-generator**; for removing genuinely low-value content, see **content-pruning-audit** (content category).
 
 ## What Wastes Crawl Budget
 
@@ -27,15 +27,15 @@ Crawl efficiency and prioritization, primarily relevant for large sites (typical
 
 ## Prioritization Levers
 
-- **Robots.txt exclusions** for genuinely non-valuable paths (see **robots-txt-generator**) — the most direct lever for reducing wasted crawl attempts on faceted/filter URLs.
-- **Internal linking depth** (see **internal-linking-strategy**, on-page category) — pages linked closer to the homepage and from high-authority pages tend to receive more frequent crawl attention.
-- **XML sitemap prioritization** — ensuring the sitemap accurately reflects the most important, canonical URLs (see **xml-sitemap-builder**).
-- **Server performance** — faster, more reliable server responses directly support a higher sustained crawl rate.
+- **Robots.txt exclusions** for genuinely non-valuable paths (see **robots-txt-generator**) the most direct lever for reducing wasted crawl attempts on faceted/filter URLs.
+- **Internal linking depth** (see **internal-linking-strategy**, on-page category) pages linked closer to the homepage and from high-authority pages tend to receive more frequent crawl attention.
+- **XML sitemap prioritization** ensuring the sitemap accurately reflects the most important, canonical URLs (see **xml-sitemap-builder**).
+- **Server performance** faster, more reliable server responses directly support a higher sustained crawl rate.
 
 ## Workflow
 
 1. Confirm this is genuinely a crawl-budget-constrained site (large URL count, or evidence in Search Console of pages "discovered, not indexed").
-2. Identify the biggest sources of low-value crawl volume — typically faceted navigation and thin/duplicate content.
+2. Identify the biggest sources of low-value crawl volume typically faceted navigation and thin/duplicate content.
 3. Apply robots.txt exclusions to the highest-volume, lowest-value URL patterns.
 4. Check internal linking depth for genuinely important pages that may be under-linked and therefore under-crawled.
 5. Confirm server response times and error rates aren't independently suppressing crawl rate.
