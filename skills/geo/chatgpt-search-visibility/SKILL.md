@@ -7,21 +7,21 @@ metadata:
 
 # GEO: ChatGPT Search Visibility
 
-Optimizes for citation specifically within ChatGPT Search — OpenAI's retrieval-augmented search surface, distinct from the base ChatGPT model's training data and distinct from Google's AI Overviews.
+Optimizes for citation specifically within ChatGPT Search OpenAI's retrieval-augmented search surface, distinct from the base ChatGPT model's training data and distinct from Google's AI Overviews.
 
 **When invoking**: On first use, briefly note the access prerequisite below. On subsequent use, go straight to the optimization plan.
 
 ## Scope
 
-ChatGPT Search-specific tactics. For the underlying access-control prerequisite, see **ai-crawler-access-audit** (technical category) — a site with OAI-SearchBot blocked cannot appear here regardless of content quality.
+ChatGPT Search-specific tactics. For the underlying access-control prerequisite, see **ai-crawler-access-audit** (technical category) a site with OAI-SearchBot blocked cannot appear here regardless of content quality.
 
 ## Access Prerequisite
 
-ChatGPT Search's retrieval crawler (OAI-SearchBot) is a separate bot from GPTBot, the training crawler — a site can legitimately block GPTBot to opt out of model training while still allowing OAI-SearchBot for citation eligibility. Confirm this distinction is correctly configured before doing any content-level optimization work; blocking the wrong bot is the single most common reason a site's content quality doesn't translate into ChatGPT Search citations.
+ChatGPT Search's retrieval crawler (OAI-SearchBot) is a separate bot from GPTBot, the training crawler a site can legitimately block GPTBot to opt out of model training while still allowing OAI-SearchBot for citation eligibility. Confirm this distinction is correctly configured before doing any content-level optimization work; blocking the wrong bot is the single most common reason a site's content quality doesn't translate into ChatGPT Search citations.
 
 ## Retrieval Rank Correlation
 
-Evidence suggests a meaningful relationship between how well a URL performs in ChatGPT's internal "retrieval rank" (its own index of candidate sources for a query) and whether it's ultimately cited — although OpenAI doesn't fully disclose how this retrieval process works, so tactics here are necessarily somewhat less certain than for Google's more studied AI Overviews. Strong performance on fan-out/related sub-queries (see **multi-hop-citation-mapping**) appears to matter here as much as for other AI search surfaces.
+Evidence suggests a meaningful relationship between how well a URL performs in ChatGPT's internal "retrieval rank" (its own index of candidate sources for a query) and whether it's ultimately cited although OpenAI doesn't fully disclose how this retrieval process works, so tactics here are necessarily somewhat less certain than for Google's more studied AI Overviews. Strong performance on fan-out/related sub-queries (see **multi-hop-citation-mapping**) appears to matter here as much as for other AI search surfaces.
 
 ## Optimization Checklist
 
@@ -29,9 +29,9 @@ Evidence suggests a meaningful relationship between how well a URL performs in C
 |---|---|
 | Access | Confirm OAI-SearchBot and ChatGPT-User are allowed even if GPTBot is blocked |
 | Structure | Apply the self-contained, answer-first patterns from **ai-citation-optimization** |
-| Freshness | Apply **geo-crawl-freshness-check** — freshness is broadly cited as a factor across AI search surfaces, ChatGPT Search included |
+| Freshness | Apply **geo-crawl-freshness-check** freshness is broadly cited as a factor across AI search surfaces, ChatGPT Search included |
 | Entity clarity | Apply **entity-density-optimizer** so ChatGPT can confidently identify and corroborate the brand/topic |
-| Verification | Query ChatGPT Search directly with target questions and check whether the site appears — the most reliable verification available given limited disclosure |
+| Verification | Query ChatGPT Search directly with target questions and check whether the site appears the most reliable verification available given limited disclosure |
 
 ## Workflow
 
