@@ -1,6 +1,6 @@
 # Project Context
 
-Fill this in and place it at `.claude/project-context.md` or `.cursor/project-context.md`. Skills read it automatically. Start with sections 1–4 and 8; add 5–7 as they become available. Update regularly — stale context degrades output quality.
+Fill this in and place it at `.claude/project-context.md` or `.cursor/project-context.md`. Skills read it automatically. Start with sections 1–4 and 8; add 5–7 as they become available. Update regularly stale context degrades output quality.
 
 ## 1. Product
 What the product/service is, in 2–3 sentences.
@@ -24,4 +24,4 @@ Link or path to a sitemap / content list, if one exists.
 Any known technical SEO issues, past penalties, or migration history worth knowing before auditing.
 
 ## 8. Goals
-What success looks like — traffic, citations, leads, rankings for specific terms — and the timeframe.
+What success looks like traffic, citations, leads, rankings for specific terms and the timeframe.
