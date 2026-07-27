@@ -7,17 +7,17 @@ metadata:
 
 # GEO: Brand Mention in AI Answers
 
-Tracks and improves how often a brand is named — with or without a clickable citation link — in AI-generated answers to relevant queries, distinct from formal link-based citation tracking.
+Tracks and improves how often a brand is named with or without a clickable citation link in AI-generated answers to relevant queries, distinct from formal link-based citation tracking.
 
 **When invoking**: On first use, briefly explain why unlinked mentions still matter. On subsequent use, go straight to the tracking/optimization plan.
 
 ## Scope
 
-Named-mention visibility specifically, which can occur without a formal citation link. Not link-based citation structure (see **ai-citation-optimization**) or general off-page brand monitoring across the web (see **brand-mention-monitor**, off-page category) — this skill is specific to AI-generated answer content.
+Named-mention visibility specifically, which can occur without a formal citation link. Not link-based citation structure (see **ai-citation-optimization**) or general off-page brand monitoring across the web (see **brand-mention-monitor**, off-page category) this skill is specific to AI-generated answer content.
 
 ## Why Unlinked Mentions Still Matter
 
-Many AI answer engines will name a brand within a recommendation or comparison ("popular options include X, Y, and Z") without necessarily including a clickable source link for every name mentioned. This kind of mention still carries real value — it functions similarly to a word-of-mouth recommendation — even though it won't show up in a strict citation-link audit. Tracking mention frequency, not just citation-link frequency, gives a fuller picture of AI-driven brand visibility.
+Many AI answer engines will name a brand within a recommendation or comparison ("popular options include X, Y, and Z") without necessarily including a clickable source link for every name mentioned. This kind of mention still carries real value it functions similarly to a word-of-mouth recommendation even though it won't show up in a strict citation-link audit. Tracking mention frequency, not just citation-link frequency, gives a fuller picture of AI-driven brand visibility.
 
 ## Drivers of Mention Frequency
 
@@ -39,4 +39,4 @@ Many AI answer engines will name a brand within a recommendation or comparison (
 
 - **entity-density-optimizer**: Entity clarity work that supports being named confidently
 - **brand-mention-monitor** (off-page): Broader web-wide mention tracking, of which AI-answer mentions are one channel
-- **ai-citation-optimization**: Formal, linked citation structure — complementary to this skill's broader mention tracking
+- **ai-citation-optimization**: Formal, linked citation structure complementary to this skill's broader mention tracking
