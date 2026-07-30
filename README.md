@@ -1,6 +1,6 @@
 # Marketing Skills (Akshay Dahiya)
 
-100 Agent Skills for SEO, Content, and GEO (Generative Engine Optimization) — markdown skill files following the Agent Skills spec, no lock-in to a single tool. Works with Claude Code, Cursor, Claude.ai (paste the SKILL.md contents), and any agent supporting the spec.
+100 Agent Skills for SEO, Content, and GEO (Generative Engine Optimization) markdown skill files following the Agent Skills spec, no lock-in to a single tool. Works with Claude Code, Cursor, Claude.ai (paste the SKILL.md contents), and any agent supporting the spec.
 
 ## Structure
 
@@ -20,7 +20,7 @@ templates/
   SKILL-TEMPLATE.md    blank skeleton for writing additional skills in the same format
 ```
 
-**100 skills total**, each a folder containing a single `SKILL.md` with YAML frontmatter (`name`, `description`, `metadata.version`) followed by the skill body. Every skill cross-references related skills by name so an agent — or a human — can navigate between them.
+**100 skills total**, each a folder containing a single `SKILL.md` with YAML frontmatter (`name`, `description`, `metadata.version`) followed by the skill body. Every skill cross-references related skills by name so an agent or a human can navigate between them.
 
 ## Install
 
@@ -37,7 +37,7 @@ cp -r marketing-skills/templates .cursor/
 
 ## Add Project Context
 
-Skills read `project-context.md` automatically if present in `.claude/` or `.cursor/`. Copy the template from `templates/project-context.md` and fill in your product, audience, and brand voice — without this, output stays generic.
+Skills read `project-context.md` automatically if present in `.claude/` or `.cursor/`. Copy the template from `templates/project-context.md` and fill in your product, audience, and brand voice without this, output stays generic.
 
 ## Skill Directory
 
@@ -188,4 +188,4 @@ Skills read `project-context.md` automatically if present in `.claude/` or `.cur
 
 ## Status
 
-100 skills complete across all 9 categories. Built by [Akshay Dahiya](https://akshaydahiya.site) — GEO researcher and developer of AI Spider (AI retrievability audit), MarAI (AI marketing ops), and RankScan (AI visibility research).
+100 skills complete across all 9 categories. Built by [Akshay Dahiya](https://akshaydahiya.site) GEO researcher and developer of AI Spider (AI retrievability audit), MarAI (AI marketing ops), and RankScan (AI visibility research).
